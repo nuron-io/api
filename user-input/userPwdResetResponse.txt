@@ -1,0 +1,18 @@
+//Input in HTTP
+
+GET /api/v1/user/pwdReset?email=ajay@nuron.io HTTP/1.1
+Host: localhost:4200
+api_key: aaa
+secret_key: bbb
+Cookie: connect.sid=s%3AvnaJtfPJlDCxZqLyBAGty8ontnu555kt.%2BVgtemq8vwu6Em5WCe2HT0Yucl5qk4j2Bssh0Tak7ig
+
+
+
+
+
+//Input in CURL
+
+curl --location --request GET 'http://localhost:4200/api/v1/user/pwdReset?email=ajay@nuron.io' \
+--header 'api_key: aaa' \
+--header 'secret_key: bbb' \
+--header 'Cookie: connect.sid=s%3AvnaJtfPJlDCxZqLyBAGty8ontnu555kt.%2BVgtemq8vwu6Em5WCe2HT0Yucl5qk4j2Bssh0Tak7ig'

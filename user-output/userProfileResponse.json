@@ -1,0 +1,20 @@
+{
+    "code": 200,
+    "data": {
+        "firstname": "Nitin",
+        "lastname": "Kumar",
+        "email": "admin",
+        "profile_url": "",
+        "company_name": "Nuron",
+        "company_hash": "dsdcsdfasdfvsdrfasdfsd",
+        "company_logo": "https://storage.googleapis.com/nuron-test/tenant%2Fdownload.png?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16446997800&Signature=WkuFRoorGVz5llwop%2F7GFaQez79J6lP4%2BxxYzmoeh%2FsWpWD29FPRjC6WnkUzQ5u4s56Tq78D7tMWsWc6kFnxb5ntHjfA3xxcCza1fYH9YDTZB%2FNZAYIdmNzXGwBC4tENKjdu3KadZ3nxcL5UvKzoVevb3fxZbN%2FP3nLKsvob2buvLjp9uXzuFX9eivWxqm3JF9gindRuRylIItJ1lOA7EIWPyWBNDfq9BMeAuSwE0ZAV6J%2FlSCj2D%2FVsubc0RnxjlSZzS3QTnTkUU7L%2Bpw3Agb16NSY%2Bf24jOnIiFBdhj7ZJ14EUdSqheX8ew1iKmuPb8%2B%2BztQXajixNO3e5QztkZQ%3D%3D",
+        "gender": "Male",
+        "about": "null",
+        "contact": "null",
+        "website": "null",
+        "voice_type": "",
+        "greeting": "https://storage.googleapis.com/nuron-test/tenant%2Fusers%2F1%2Fundefined?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16446997800&Signature=SX3IEFK83TpevreVSfj8IaTOYaSQCKS1dfPxq4Vp58pWPlgLBYUBR81BlirHmbLpGs4peX9s4VCXUI%2FAhnazzwjYxbA%2BX0anfKNjq0DVngqxigmmS5ohPXEY4PSRsBc8mSASNewy9Jxt3K6T21j2DBqvR62YUB1pwffJX6e9rygor%2B6u2CfoDv2MB8t9yEcn4ZSBhrVuBc3J9NgjEA9fC2KKoJe1Uk7vEj%2F9tTMloc%2FR%2BbrJD5PiDje24n6TJg3JJjzVNzNu%2BaYZcDKo1%2FrMWtME8VlHhLKYOIKeaiJjHtmLyPK%2FJ7xJ66vrexyANjG9L%2BM5Rz5d3mvr3ifDqdJqbg%3D%3D",
+        "status": "Active",
+        "member_since": "2018-07-17T06:54:53.000Z"
+    }
+}

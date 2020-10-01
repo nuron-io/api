@@ -1,0 +1,16 @@
+//Input in HTTP
+
+GET /api/v1/user/project?type=dataset HTTP/1.1
+Host: localhost:4200
+api_key: aaa
+secret_key: bbb
+Cookie: connect.sid=s%3An26W5L7TRPCuemDKVh2GiqZq26IPoAWo.q2vEo5uFE5%2FSmycqO3n6YwBXa%2BjrX7LC154sqA4H%2F8k
+
+
+
+//Input in CURL
+
+curl --location --request GET 'http://localhost:4200/api/v1/user/project?type=dataset' \
+--header 'api_key: aaa' \
+--header 'secret_key: bbb' \
+--header 'Cookie: connect.sid=s%3An26W5L7TRPCuemDKVh2GiqZq26IPoAWo.q2vEo5uFE5%2FSmycqO3n6YwBXa%2BjrX7LC154sqA4H%2F8k'
