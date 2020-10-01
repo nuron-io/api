@@ -1,0 +1,12 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "firstname": "test",
+            "lastname": "user-1",
+            "company_name": "Nuron",
+            "company_hash": "dsdcsdfasdfvsdrfasdfsd",
+            "company_logo": "https://storage.googleapis.com/nuron-test/tenant%2Fdownload.png?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16446997800&Signature=WkuFRoorGVz5llwop%2F7GFaQez79J6lP4%2BxxYzmoeh%2FsWpWD29FPRjC6WnkUzQ5u4s56Tq78D7tMWsWc6kFnxb5ntHjfA3xxcCza1fYH9YDTZB%2FNZAYIdmNzXGwBC4tENKjdu3KadZ3nxcL5UvKzoVevb3fxZbN%2FP3nLKsvob2buvLjp9uXzuFX9eivWxqm3JF9gindRuRylIItJ1lOA7EIWPyWBNDfq9BMeAuSwE0ZAV6J%2FlSCj2D%2FVsubc0RnxjlSZzS3QTnTkUU7L%2Bpw3Agb16NSY%2Bf24jOnIiFBdhj7ZJ14EUdSqheX8ew1iKmuPb8%2B%2BztQXajixNO3e5QztkZQ%3D%3D"
+        }
+    ]
+}
