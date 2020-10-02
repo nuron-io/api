@@ -1,0 +1,18 @@
+{
+    "code": 200,
+    "data": {
+        "name": "Kline Global Lubricant Additives 2014 Report - Dec 2015.pdf",
+        "hash": "b9aed2002a20c65600cc19b686cf67390bfec1df",
+        "project_hash": "3d7117d614b74cc7fcb966e21307a7d1",
+        "project_name": "Nuron Literature",
+        "creator_name": "Nitin Kumar",
+        "creator_hash": "erg",
+        "doc_type": "Internal Documents",
+        "labels": [
+            "test3455"
+        ],
+        "image_preview_url": null,
+        "doc_access": "project",
+        "share_url": "http://localhost:4200/#/dashboard/documentdetails?t=b9aed2002a20c65600cc19b686cf67390bfec1df"
+    }
+}

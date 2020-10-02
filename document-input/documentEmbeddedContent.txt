@@ -1,0 +1,16 @@
+//Input in HTTP
+
+GET /api/v1/document/embededContent?hash=0aa0e7229022f5fe6e31dafd03a2b35c4e695e75 HTTP/1.1
+Host: localhost:4200
+api_key: aaa
+secret_key: bbb
+Cookie: connect.sid=s%3ArxeEnNT2ELCKgThbVKoa8NBOk97tHRHB.R%2FsNK%2F9YSU1t%2F3L9oGdFd9NpIs5UYLdBkHfw9Hm70zs
+
+
+
+//Input in CURL
+
+curl --location --request GET 'http://localhost:4200/api/v1/document/embededContent?hash=0aa0e7229022f5fe6e31dafd03a2b35c4e695e75' \
+--header 'api_key: aaa' \
+--header 'secret_key: bbb' \
+--header 'Cookie: connect.sid=s%3ArxeEnNT2ELCKgThbVKoa8NBOk97tHRHB.R%2FsNK%2F9YSU1t%2F3L9oGdFd9NpIs5UYLdBkHfw9Hm70zs'
