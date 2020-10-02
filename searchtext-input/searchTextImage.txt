@@ -1,0 +1,16 @@
+//Input in HTTP
+
+GET /api/v1/textSearch/image?search_text=Broad match show for all close variants of the term as well as synonyms&offset=0&size=5&project_type=document HTTP/1.1
+Host: localhost:4200
+api_key: aaa
+secret_key: bbb
+Cookie: connect.sid=s%3ArxeEnNT2ELCKgThbVKoa8NBOk97tHRHB.R%2FsNK%2F9YSU1t%2F3L9oGdFd9NpIs5UYLdBkHfw9Hm70zs
+
+
+
+//Input in CURL
+
+curl --location --request GET 'http://localhost:4200/api/v1/textSearch/image?search_text=Broad%20match%20show%20for%20all%20close%20variants%20of%20the%20term%20as%20well%20as%20synonyms&offset=0&size=5&project_type=document' \
+--header 'api_key: aaa' \
+--header 'secret_key: bbb' \
+--header 'Cookie: connect.sid=s%3ArxeEnNT2ELCKgThbVKoa8NBOk97tHRHB.R%2FsNK%2F9YSU1t%2F3L9oGdFd9NpIs5UYLdBkHfw9Hm70zs'
