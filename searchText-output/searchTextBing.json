@@ -1,0 +1,292 @@
+{
+    "code": 200,
+    "data": {
+        "_type": "SearchResponse",
+        "queryContext": {
+            "originalQuery": "narendra modi"
+        },
+        "webPages": {
+            "webSearchUrl": "https://www.bing.com/search?q=narendra+modi",
+            "totalEstimatedMatches": 699000,
+            "value": [
+                {
+                    "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.0",
+                    "name": "Narendra Modi | NarendraModi.in Official Website of Prime Minister of India",
+                    "url": "https://www.narendramodi.in/",
+                    "about": [
+                        {
+                            "name": "Narendra Modi"
+                        }
+                    ],
+                    "isFamilyFriendly": true,
+                    "displayUrl": "https://www.<b>narendramodi</b>.in",
+                    "snippet": "In 2014, when Narendra Modi was elected as the Prime Minister of the world’s largest democracy, the world watched in expectation as to how his foreign policy would be. He has brought a new vigour to India’…",
+                    "deepLinks": [
+                        {
+                            "name": "Watch Live",
+                            "url": "https://www.narendramodi.in/watch-live",
+                            "snippet": "Watch Live, PM Narendra Modi - Get information on live events telecast, videos, speeches at Narendramodi.in"
+                        },
+                        {
+                            "name": "Biography",
+                            "url": "https://www.narendramodi.in/categories/biography",
+                            "snippet": "Biography of Shri Narendra Modi - Read all the information, stories on our beloved Prime Minister of India."
+                        },
+                        {
+                            "name": "Text Speeches",
+                            "url": "https://www.narendramodi.in/category/text-speeches",
+                            "snippet": "PM Narendra Modi launched the Age Appropriate Fitness Protocols on the occasion of the first anniversary of the Fit India Movement, via virtual conferencing. PM Modi also interacted with various sportspersons, fitness experts and others during the Fit India Dialogue organised on the occasion, where they shared their experiences and fitness mantras."
+                        },
+                        {
+                            "name": "BJP",
+                            "url": "https://www.narendramodi.in/bjp-for-a-strong-stable-inclusive-prosperous-india-6205",
+                            "snippet": "Shri Narendra Modi being sworn in as the Prime Minister in 2014 at Rashtrapati Bhavan. The BJP’s history dates back to 1980 when the Party was born under the Presidentship of Shri Atal Bihari Vajpayee. The BJP’s precursor, the Bharatiya Jan Sangh was active in Indian politics through the 1950s, 60s and 70s and its leader Shri Shyama Prasad Mukherjee had served in the first ever Cabinet of Independent India. The Jan Sangh was an integral part of the Janata Party government under Shri ..."
+                        },
+                        {
+                            "name": "Download App",
+                            "url": "https://www.narendramodi.in/downloadapp",
+                            "snippet": "Download NaMo App and get real time updates about PM Modi on the go! nm4.in/dnldapp"
+                        },
+                        {
+                            "name": "E-Books",
+                            "url": "https://www.narendramodi.in/category/ebooks",
+                            "snippet": "To know more about narendra modi achievements, pm site/pm portal India have several books about the PM. My government narendra modi/My PM include other related info."
+                        }
+                    ],
+                    "dateLastCrawled": "2020-10-04T14:10:00.0000000Z",
+                    "language": "en",
+                    "isNavigational": true
+                },
+                {
+                    "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.1",
+                    "contractualRules": [
+                        {
+                            "_type": "ContractualRules/LicenseAttribution",
+                            "targetPropertyName": "snippet",
+                            "targetPropertyIndex": 1,
+                            "mustBeCloseToContent": true,
+                            "license": {
+                                "name": "CC-BY-SA",
+                                "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+                            },
+                            "licenseNotice": "Text under CC-BY-SA license"
+                        }
+                    ],
+                    "name": "Narendra Modi - Wikipedia",
+                    "url": "https://en.wikipedia.org/wiki/Narendra_Modi",
+                    "about": [
+                        {
+                            "name": "Narendra Modi"
+                        },
+                        {
+                            "name": "Narendra Modi"
+                        }
+                    ],
+                    "isFamilyFriendly": true,
+                    "displayUrl": "https://<b>en.wikipedia.org</b>/wiki/<b>Narendra_Modi</b>",
+                    "snippet": "<b>Narendra Modi</b> was born on 17 September 1950 to a Gujarati Hindu family of grocers in Vadnagar, Mehsana district, Bombay State (present-day Gujarat). He was the third of six children born to Damodardas Mulchand <b>Modi</b> (c. 1915–1989) and Hiraben <b>Modi</b> (born c. 1920). <b>Modi</b>&#39;s family belonged to the Modh-Ghanchi-Teli (oil-presser) community, which is categorised as an Other Backward Class by the Indian government. He was ...",
+                    "dateLastCrawled": "2020-10-02T15:15:00.0000000Z",
+                    "language": "en",
+                    "isNavigational": false
+                },
+                {
+                    "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.2",
+                    "name": "Narendra Modi (@narendramodi) • Instagram photos and videos - Twitter",
+                    "url": "https://twitter.com/narendramodi",
+                    "about": [
+                        {
+                            "name": "Narendra Modi"
+                        },
+                        {
+                            "name": "Narendra Modi"
+                        }
+                    ],
+                    "isFamilyFriendly": true,
+                    "displayUrl": "https://<b>twitter.com</b>/<b>narendramodi</b>",
+                    "snippet": "We would like to show you a description here but the site won’t allow us.",
+                    "dateLastCrawled": "2020-10-02T19:06:00.0000000Z",
+                    "language": "en",
+                    "isNavigational": false
+                },
+                {
+                    "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.3",
+                    "name": "Narendra Modi (@narendramodi) • Instagram photos and videos",
+                    "url": "https://www.instagram.com/narendramodi/",
+                    "about": [
+                        {
+                            "name": "Narendra Modi"
+                        },
+                        {
+                            "name": "Narendra Modi"
+                        }
+                    ],
+                    "isFamilyFriendly": true,
+                    "displayUrl": "https://www.instagram.com/<b>narendramodi</b>",
+                    "snippet": "49.5m Followers, 0 Following, 412 Posts - See Instagram photos and videos from <b>Narendra Modi</b> (@<b>narendramodi</b>)",
+                    "dateLastCrawled": "2020-10-05T06:35:00.0000000Z",
+                    "language": "en",
+                    "isNavigational": false
+                },
+                {
+                    "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.4",
+                    "name": "Narendra Modi | Biography &amp; Facts | Britannica",
+                    "url": "https://www.britannica.com/biography/Narendra-Modi",
+                    "about": [
+                        {
+                            "name": "Narendra Modi"
+                        },
+                        {
+                            "name": "Narendra Modi"
+                        }
+                    ],
+                    "isFamilyFriendly": true,
+                    "displayUrl": "https://<b>www.britannica.com</b>/biography/<b>Narendra-Modi</b>",
+                    "snippet": "Narendra Modi, in full Narendra Damodardas Modi, (born September 17, 1950, Vadnagar, India), Indian politician and government official who rose to become a senior leader of the Bharatiya Janata Party (BJP).",
+                    "dateLastCrawled": "2020-10-02T04:34:00.0000000Z",
+                    "language": "en",
+                    "isNavigational": false
+                },
+                {
+                    "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.5",
+                    "name": "Narendra Modi: Latest News of PM Modi | Top Stories , Photos &amp; Videos",
+                    "url": "https://timesofindia.indiatimes.com/topic/Narendra-Modi",
+                    "about": [
+                        {
+                            "name": "Narendra Modi"
+                        },
+                        {
+                            "name": "Narendra Modi"
+                        }
+                    ],
+                    "isFamilyFriendly": true,
+                    "displayUrl": "https://<b>timesofindia.indiatimes.com</b>/topic/<b>Narendra-Modi</b>",
+                    "snippet": "Narendra Modi is an Indian politician and Prime Minister of India since 2014. The BJP swept to victory in the recent 2019 Lok Sabha Elections - held over 39 days in April and May - and increased its majority in the lower house of Parliament.",
+                    "dateLastCrawled": "2020-09-28T14:11:00.0000000Z",
+                    "language": "en",
+                    "isNavigational": false
+                },
+                {
+                    "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.6",
+                    "name": "Narendra Modi: Latest News, Photos, Videos on Narendra Modi - NDTV.COM",
+                    "url": "https://www.ndtv.com/topic/narendra-modi",
+                    "about": [
+                        {
+                            "name": "Narendra Modi"
+                        },
+                        {
+                            "name": "Narendra Modi"
+                        }
+                    ],
+                    "isFamilyFriendly": true,
+                    "displayUrl": "https://<b>www.ndtv.com</b>/topic/<b>narendra-modi</b>",
+                    "snippet": "Prime Minister Narendra Modi is inaugurating the strategically important all-weather Atal Tunnel at Rohtang in Himachal Pradesh. The 9.02 km long Atal Tunnel, which reduces the distance between...",
+                    "dateLastCrawled": "2020-10-02T08:43:00.0000000Z",
+                    "language": "en",
+                    "isNavigational": false
+                },
+                {
+                    "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.7",
+                    "name": "Narendra Modi - YouTube",
+                    "url": "https://www.youtube.com/user/narendramodi",
+                    "about": [
+                        {
+                            "name": "Narendra Modi"
+                        }
+                    ],
+                    "isFamilyFriendly": true,
+                    "displayUrl": "https://<b>www.youtube.com</b>/user/<b>narendramodi</b>",
+                    "snippet": "Official YouTube channel of Shri Narendra Modi, Prime Minister of India.",
+                    "dateLastCrawled": "2020-09-30T19:12:00.0000000Z",
+                    "language": "en",
+                    "isNavigational": false
+                },
+                {
+                    "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.8",
+                    "name": "Narendra Modi: Narendra Modi latest news, PM Modi updates | The ...",
+                    "url": "https://economictimes.indiatimes.com/news/narendra-modi",
+                    "about": [
+                        {
+                            "name": "Narendra Modi"
+                        }
+                    ],
+                    "isFamilyFriendly": true,
+                    "displayUrl": "https://<b>economictimes.indiatimes.com</b>/news/<b>narendra-modi</b>",
+                    "snippet": "Narendra Modi was born on 17th September 1950, 3 years after India attained freedom and within months of India becoming a Republic, in the by-lanes of Vadnagar, a small town in North Gujarat’s Mehsana district. Narendra Modi was the third of the six children of Damodardas Modi and Hiraba Modi.",
+                    "dateLastCrawled": "2020-10-04T11:18:00.0000000Z",
+                    "language": "en",
+                    "isNavigational": false
+                }
+            ],
+            "someResultsRemoved": true
+        },
+        "rankingResponse": {
+            "mainline": {
+                "items": [
+                    {
+                        "answerType": "WebPages",
+                        "resultIndex": 0,
+                        "value": {
+                            "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.0"
+                        }
+                    },
+                    {
+                        "answerType": "WebPages",
+                        "resultIndex": 1,
+                        "value": {
+                            "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.1"
+                        }
+                    },
+                    {
+                        "answerType": "WebPages",
+                        "resultIndex": 2,
+                        "value": {
+                            "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.2"
+                        }
+                    },
+                    {
+                        "answerType": "WebPages",
+                        "resultIndex": 3,
+                        "value": {
+                            "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.3"
+                        }
+                    },
+                    {
+                        "answerType": "WebPages",
+                        "resultIndex": 4,
+                        "value": {
+                            "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.4"
+                        }
+                    },
+                    {
+                        "answerType": "WebPages",
+                        "resultIndex": 5,
+                        "value": {
+                            "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.5"
+                        }
+                    },
+                    {
+                        "answerType": "WebPages",
+                        "resultIndex": 6,
+                        "value": {
+                            "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.6"
+                        }
+                    },
+                    {
+                        "answerType": "WebPages",
+                        "resultIndex": 7,
+                        "value": {
+                            "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.7"
+                        }
+                    },
+                    {
+                        "answerType": "WebPages",
+                        "resultIndex": 8,
+                        "value": {
+                            "id": "https://bingwebsearchapi.cognitiveservices.azure.com/api/v7/#WebPages.8"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
