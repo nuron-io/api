@@ -1,0 +1,95 @@
+{
+    "code": 200,
+    "data": {
+        "image": [
+            {
+                "title": "FLOWER123",
+                "hash": "c34809b2493bfac1858b999a51b5fadc",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FBreyers.png?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=B9KqBzFp2md24wMknuQmngbn11xazQcQS1%2FYhRPyRF3SSTQvOqLSA34KuT0WdhvakNdUD%2F%2Fnr93IZWkpxGrcSnqzX90JMTbNDzHbrC2NoC64LBuswiN4iQdsnnpZhzGsn5uQasX1IEfwgH3V2%2B85yDXPkk8gRzXuJ4Bp3OWnsiRuJ76uI7amgDOasB6k5xEBxsPoNqyVZUgkuLuhpBlvKkzCNhcsBOqhnrZSBvuzL55M9x1XBKCCcnpbaZi7HRgJfAUQ5f47jXeR7b9VQJ0xurYE1XG3%2BsZPrVL7cIdGMSHx5kBDSaRyXEq129kZDVyXIZsQWWkHNNP5HwBalSq%2B6g%3D%3D",
+                "ocr": "reyers\n",
+                "creator_name": "Murari Pareek",
+                "creator_hash": "99014cb856e255080a7e39018a62c06d",
+                "project_name": "ProMPT Report Data",
+                "project_hash": "20b3cd563408101a29afe45ccec9bd07",
+                "type": "image"
+            }
+        ],
+        "NonImage": [
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FNuronbatch%20file.xlsx?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=C6vPo09NjFukQiZu%2FwAiDWuTeY8VEic3JVeuLQDUrEbl2fDrhgEk1RX%2BRBPdGFSy4LF0v03066sVDUGKYHzK5CPDTuBUNk8CAZ0KGDiObQcnd7aywUlFFANM7oVT04ZJk6dObEDx2ns5Ve8zZ9dpBbKJuZZQipkWpX2Kp4UGXnI8RlLRUjLukjAwfSxnacy8ksJ%2BfgAk2xPrT7YmVM2jtrUAsmgE9tcxEPLqUk0oXsx3c%2BFPRymU2XRtytBW%2BhpM75zczjyc7WFV2iWNeOYR9Hut%2F7OxRjlOBwESsMFh%2BQUtvxpV9LJnlqiP6Lj5%2FEA2hs%2BmrVqFnnUHtAstBoNq7A%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FMicrosoft_Word_Document1.pdf?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=Ca3BdZE5enH03lO26RVuPGCfI4GDK4c%2B09rF7ESnlKiVJ0Ab9cIUAIZRs7CnAsuK4vf0S7Do%2FnMNoWn%2FWweuBWnVGNYyoL66c%2FJyqHsHuPnI%2BGaeviX5pBv2MPAExcD5qlFrkcQZopF5r5NZaJMGtlex70eqE3f5M0vdy4FO9kZ3%2Fr0hNudJ96VCe8opzEPfkSoi8XyQmFMIwgijON25zNCmWQ9kWIQuZhhCarqvll5J095uBr0y3GCkkQiTRcPuCHPHun%2BnXbiboxMbiyQbpHgRwNwzZpme9idk4vQd08f2AYPg%2FmKGQd5EEl6OeDdC0JAzW7Wf23heQCbj7SoZQg%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FoleObject1.pdf?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=ZGiLVgfYTM8trqN3N0RL4SES%2FzmsXrea0WjShizPyh4Vlxh2szZSwumeNgdWa8YwgHbaZ8dx4XD23DH5eVPF%2FYNSBbvR4bu5hLhgKm1WNkSbGGWGxi8nzNyVbu8dAE%2BHuK132K1BifRuK0ohdDtEjtLKgp7TQMxZ9EeFiAki5VgT1djp4qHRB%2FBpkSHbcDN%2FtW%2BvvNczBT5MME%2FkbCxTM9jVOJLiTLnEdESXfTg0kDr04qqAibZvVBa6DjkjnTfQ%2FQUlC6yUB9k7ZYnvyl%2BLbP6QU2LteiE%2Fp0K97tpTBhu974oolw6EGwN4dNN0oHLhPlChQuvVtRa9NfLch1lTwg%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FoleObject1.pdf?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=ZGiLVgfYTM8trqN3N0RL4SES%2FzmsXrea0WjShizPyh4Vlxh2szZSwumeNgdWa8YwgHbaZ8dx4XD23DH5eVPF%2FYNSBbvR4bu5hLhgKm1WNkSbGGWGxi8nzNyVbu8dAE%2BHuK132K1BifRuK0ohdDtEjtLKgp7TQMxZ9EeFiAki5VgT1djp4qHRB%2FBpkSHbcDN%2FtW%2BvvNczBT5MME%2FkbCxTM9jVOJLiTLnEdESXfTg0kDr04qqAibZvVBa6DjkjnTfQ%2FQUlC6yUB9k7ZYnvyl%2BLbP6QU2LteiE%2Fp0K97tpTBhu974oolw6EGwN4dNN0oHLhPlChQuvVtRa9NfLch1lTwg%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FTEST123.xlsx?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=GWakL6pbarfIXFcH7miunGysru761wdhNHPznqWL9b3IWGpiokwdJhj4iT9iJRM7l1FSeSvjg4yDT%2Fv0RmKu4%2BQAOEbrRFWIR9hDaBzH04uiRqyW%2BBfoeZUUYsicHiYrvo9GWlEWAnX1LVSeAGGAU9tHi8o9ixdDR40BnkpiWsHIHsBMPtgzXx%2BR6sKeK7yZS67kpaDQYkYE1XmwKSsOqaBr%2F79ZjfS8N5YmJ%2BABV7cjgrkcWIybKcHmAjGv5S3vtKp7gP3Qiw6SMmMBDlb4btblBHhluqnhE4kdMz1AS9bYv77OEVbCd9dwZCN%2B1JMNB8aBFUBF4dDGdlY51Ovv0w%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FMicrosoft_Excel_Worksheet1.pdf?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=Nb0R2ibURGIFzdYeZCylA7Dzk4CJGHK9R1gYNWJ%2FkHCzQuvWu0%2ByRuZtvBBmEHDV1AVGMMkkhKs7cl6M9DmSWYfeHd18gjMjBOotWE6MhonEiNI9XBBaNUj8cWlI9II%2FjxU9%2BigWx%2Fgmjve7plGf7akZLuSlqFJqg4HAU7QtR9NW3fet7oNuB7h%2FVBaTsLA2hv3GzjOk8Li5JVQV%2Blo5XxLRmPcjzDugYU8mJgm4EXXsGqSbBlSP6MxOTUeDtaXqrgjdZFHHC6ayhjRJWXVSzaxAjxU%2FqdifaDNIH6QImnjqvx1D2H4HXx%2FSHu3LvKL%2F4NNgWwg0iZlcg4BfTIpsVw%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FMicrosoft_Excel_Worksheet2.pdf?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=lW5FrE9C1WLeUGvZlL6Ng5m7dxh5yVROy0Vcl1kPxMWfs%2F6Iyf9MDjLqYXKFnHeA%2FiNlIiRzbkt0kLrHR13VogTOVR93D58uW5WMbNvnmJ27OdkyXJPKu74mxdcmNoCTuk8ItOgpgQ17s5Gtx0SUvgCn3qETr7pK1UgbmlW6Kn33Rh4ED1pPceHXQ%2B6qFOzZ%2FVG%2FrlkaW0kj2T3fga8xBzd0fN0ZNF0tRYR37ovHFzy1CZ4W0POrkjAaFjJefnG5hLY2%2Bmpfuql4wEMheGP0FQZSnhNZiSViS76bdq0WOJTwu8mfZ02lvM4HvyIe%2BxSLwtTgcRqSX%2F2osI5c9NV1cA%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FMicrosoft_Excel_Worksheet3.pdf?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=RP2LYyQ2W%2BkdUs7jvUk9cNjsv1bIZeGAoC9%2B%2BtUDz%2FD2zNQZsZH9WhLjXt5Cp00L6nL1KowbnDakDELaYVyH%2BdDowRvuUz7NGntJbyqC%2Fa32XbdUfd27Ct7QevqYns2K1n0jqpsoNwIVSib171fK%2B8BhEtsKSTnWvZUAqSCbJgjkMd48WzUMcMy59IJn%2BgHBXW4YcRkusGIbdumvDXmKT7CB6SRHbzDvflqHInBYEfhml1%2B6o%2FtkMmwfIpI25grbo93jW2oRRMSxuUQMW1Gioifrzof0jN2CWUoH7VOLWQmEnCEbmhx01Ej7pz4miCv28Mfqw%2BIsWeWRsw3TbVXWKA%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FMicrosoft_Excel_Worksheet6.pdf?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=IJk5EBPJF2CfVnuXloD8XKc%2FQ1dIQdaqP1brAfkIpxxUcdcJstv%2FZAqtUDJcMUk%2Fm9zX4YSKlSCuhs17ZmdViE7%2FRsMU99OCdRYWq0Sn0Qa2%2BQwCrVeyLzGy%2Fmpfx0aQ%2F5IX3G%2FtbyzhUTa3v9IcnwMz1O4YZg912PzAFhlJrs8521wWd%2BLkAva35%2BqJejhzwIbV70xAZxj%2F2ur2zFkmHYFbP32Xl0J7Zkf2NMz2IoFzoNxem59OB2wO0bqu%2B5ArrrMvejf59%2FU2ajWZ%2FBHKRspEvmtzV7Ys8qkTYrC50mAw7%2Fb8SpAx8TQNVJtFpg5UsuCVElPbDo811zHy1vsj3w%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FMicrosoft_Word_Document4.pdf?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=LTod6qK9eUVOjJzOs2XYfVsKRFtZ5BncNHrvPD1GNbvahHOk7SVHTH7MP%2B9%2BXxG0nTzRMXXyyC9JPdETPjTCE%2Bux%2BC%2F1yESKeBvlLwGSkh4vPOu5%2Bor%2FO%2Fls4Uf%2FOdaohH44D4UYNqbyXh%2F0hordkk37e6pXfze9fdfA%2FRD4nChjYlu2Dtdmj16bVieI71fUDY8BHZ0V3PDsd8YRn4uCaJm7ZFcFAI4iVXB%2BP1v%2Bdutc1tU%2FVLDfsuqMIFzWqC3LezKLLCXlKJPYTcvAMJFBzKTfJ4%2B%2B%2Ftc%2FCxMJGWbfdTGwrKjiqvNIAMKmcrKs9GtNhRgpbnFlkwZ35Hn%2BF9W%2BLw%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FMicrosoft_Word_Document5.pdf?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=A0UifQp6KNPH8SCmpGmUE5frFtf3rX5UDoGQhqj6lljuoEiDUKpQW7mkpFpdCpr22cmjEjWSRCe7ec5H%2Brkn7QX4iExJdWh%2B0UjjCoolNPS1TX2iu%2F8BDU1eyF8QzOHWOFON%2FMMw8Bt7crcpHdHjUL%2Fl1qe4Ij%2BsCCZddAd1DyRHyta5W%2FDPD7uF%2FbyJrUKKr4TCcAkWFB3rR%2FOqAxvii7YJRUR9IKWOrkDmnEsG5Zh91qMILvAw5ztSlPUTR0xaxJgtEpwVQLsKOsppF2BkpqwbQ4D%2BvpA8douYcwOP0nJP2aQXP7Qpq3Y%2FNsUFyBGCNLytXfqIdDywUuTitJICbQ%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FMicrosoft_Word_Document7.pdf?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=bPjqnm8EPOWwEUeNsmNjHDNBIVpXi%2FezGhtmgSXNzLH9TcvX7rp3vi5CF%2BloBWsapCbXioOc09msjq7VssY7ETedjMIzUB5znJ6pHgMECUtnAF9b73UH6g38kEBp9j8Q%2BRLxF22BIvfWGhjeb1YeiPzSjzcQb3961AbNHFiPVK5J7XoPboCsn8mob5GymZKf4I%2BGCKbulkFF9RerpNZbzBPym%2B9cUrrznlBB19%2Bl2VnO0pErjL9T6wLzGk9taxVTkMwzh7NPzs5luPuMc5IFxgXmi84z8eNthksQ5Pp9avwjrbR3Pvu1SyC2F2%2FrBrmhtvEM6WGTpsGYFKJkqqEPxw%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FSample_Document_Lorem_Ipsum.pdf?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=hwy1JYaC6v6UyD8UoKlmjiUKrdWHvjNsfnNKS1A3sTgW7VCnZusdHzBPKmWhxlwBFpKzFA2%2FVufdnGyQrQ7clUHDixvKG21KkdtfHPxk82hU0S6KcpoaKqjBR7TI%2FxhebygdsS%2Bf%2FfdMmV%2FT%2FtanwhxCpl44XA5QOGhZKHIpoHBnrADM4VRz6ctd32j%2BAMZ7yUX6bAIRGpKClnsdoY6yBuzQqx%2FEgBCPsA0KI3a3zrrPEZJoWw5krx70R5MHXX5s6K8MxNrStZwcmhD%2FCchSB7cjUasrcT0ykrcGNT0BN4UD6vptLnsAyGc1Yk%2Bfrq%2BapcOfnqyE20LZQ4gquG6e6w%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FTest%20Report%20-2.docx?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=mUhQ%2B5f%2BHiCIV2aUaC3y5Suwkl1tkxBvRk1L8dQ6CnAl8tHzMXQQmQx5%2BDL2VyrOl7Ja7Uv24OCSe1bDklSqF6MyeIydNUw6nlGlisXHkhUuijgx0GzJiPQ5ojtKVT7lkg1NLApzrBYtIu62EC1sqFhJTIpDolg3cFiBzhOSQYcvZYVFzpZ2FuiyRGkjG47phz1oDXvuIjaAoqtVkFsrLbYMBEJR6WReVaRwmAXSLUkvxHMVUKwAP5wOcwRguuP3F%2Fq2X7BXtiDZFW2W3BK1f6UoyS5Q7jD4HAwzebaGOR26%2B5QH8iLTJSbPtgbYqztAPkDAbfTNVvHDQVT%2BZKeSVg%3D%3D",
+                "creator_name": "Murari Pareek"
+            },
+            {
+                "title": "FLOWER123",
+                "url": "https://storage.googleapis.com/nuron-test/Data%2F316%2FVIP_Radox%20foam%20bath.xlsx?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=Zc75UfE4LcThWlndDn3U0gmjP7TuALZaYMifzDeoY%2FGlrh6xFD7tnwHkxy3qvkj%2FNzuE6GYMRmFAtlok5hjPJsKV84vZw8cMaE%2BHOVtJkeDIlNtx%2Btx8hBrMe32zLQ3JPOMOf7bzFPv6ffZfmd7nhItNM3MwJAnrRmNcdeO2QUchrb%2BgfHIciTF5j2xz9Y%2FjQjYKshRnRBjijSp8lQ%2BeAUTyruFsEifLgyIK6c9D9Yy74DwTg6NCHIEF95QTXEGgIJ97fBiV%2F07kt8ou%2FakS3b%2BIFLqHxalhAsmxh1Cazhhmd%2Bz%2Bz%2BCO4VgRbBUkOoGrfktYj0Ryp4oC5RMttHuqAA%3D%3D",
+                "creator_name": "Murari Pareek"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "hash": null,
+            "type": "line",
+            "title": "Psi",
+            "xaxistitle": "Wavelength",
+            "yaxistitle": "Psi (Deg)",
+            "maxxaxis": "auto",
+            "maxyaxis": "auto",
+            "minxaxis": "auto",
+            "minyaxis": "auto",
+            "xaxisdata": [],
+            "yaxisdata": []
+        },
+        {
+            "hash": null,
+            "type": "scatter",
+            "title": "Nyquist Plot",
+            "xaxistitle": "Z' (/Ohm)",
+            "yaxistitle": "Z' (/Ohm)",
+            "maxxaxis": "auto",
+            "maxyaxis": "auto",
+            "minxaxis": "auto",
+            "minyaxis": "auto",
+            "xaxisdata": [],
+            "yaxisdata": []
+        }
+    ]
+}
