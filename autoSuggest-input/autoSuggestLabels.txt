@@ -1,0 +1,19 @@
+//Input in HTTP
+
+GET /api/v1/autoSuggest/labels?search_text=silicon&type=document HTTP/1.1
+Host: localhost:4200
+api_key: aaa
+secret_key: bbb
+Cookie: connect.sid=s%3Aj5naLD23B8FVN5IPogFbpTICfg1IRs2S.zIViLGd1QwyECn1glQZ%2F69tbxKl9HtacsSAO13C3f44
+
+
+
+//Input in CURL
+
+curl --location --request GET 'http://localhost:4200/api/v1/autoSuggest/labels?search_text=silicon&type=document' \
+--header 'api_key: aaa' \
+--header 'secret_key: bbb' \
+--header 'Cookie: connect.sid=s%3Aj5naLD23B8FVN5IPogFbpTICfg1IRs2S.zIViLGd1QwyECn1glQZ%2F69tbxKl9HtacsSAO13C3f44'
+
+type options are document, dataset,image, analysisReport
+
