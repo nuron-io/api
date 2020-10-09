@@ -1,0 +1,54 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "name": "indiamart",
+            "label": null,
+            "image": null,
+            "description": null
+        },
+        {
+            "name": "india tv",
+            "label": null,
+            "image": null,
+            "description": null
+        },
+        {
+            "name": "india post",
+            "label": null,
+            "image": null,
+            "description": null
+        },
+        {
+            "name": "india",
+            "label": null,
+            "image": null,
+            "description": null
+        },
+        {
+            "name": "indian bank net banking",
+            "label": null,
+            "image": null,
+            "description": null
+        },
+        {
+            "name": "indian express",
+            "label": null,
+            "image": null,
+            "description": null
+        },
+        {
+            "name": "india post tracking",
+            "label": null,
+            "image": null,
+            "description": null
+        },
+        {
+            "name": "india tv live",
+            "label": null,
+            "image": null,
+            "description": null
+        }
+    ],
+    "type": "Bing Web Search"
+}

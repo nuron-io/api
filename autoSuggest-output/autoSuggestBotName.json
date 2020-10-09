@@ -1,0 +1,26 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "name": null,
+            "label": "Find diagnostic tests for Covid",
+            "image": null,
+            "description": null,
+            "query": "test"
+        },
+        {
+            "name": null,
+            "label": "Find diagnostic tests for Influenza",
+            "image": null,
+            "description": null,
+            "query": "test"
+        },
+        {
+            "name": null,
+            "label": "Find literature related to diagnostic testing of Covid and other viral diseases",
+            "image": null,
+            "description": null,
+            "query": "test"
+        }
+    ]
+}
