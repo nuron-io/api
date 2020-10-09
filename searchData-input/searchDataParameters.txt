@@ -1,0 +1,17 @@
+//Input in HTTP
+
+GET /api/v1/dataSearch/parameters?step=AxoStep Depolarization Index HTTP/1.1
+Host: localhost:4200
+api_key: aaa
+secret_key: bbb
+Cookie: connect.sid=s%3AtyQvP9hmSzTnSeb7637q_DuQrJilk7f_.kZS9Xkr9ecYZdJ2BwTpgmPu5DXAAiJu2JoCRfDnwPaY
+
+
+
+
+//Input in CURL
+
+curl --location --request GET 'http://localhost:4200/api/v1/dataSearch/parameters?step=AxoStep%20Depolarization%20Index' \
+--header 'api_key: aaa' \
+--header 'secret_key: bbb' \
+--header 'Cookie: connect.sid=s%3AtyQvP9hmSzTnSeb7637q_DuQrJilk7f_.kZS9Xkr9ecYZdJ2BwTpgmPu5DXAAiJu2JoCRfDnwPaY'

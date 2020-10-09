@@ -1,0 +1,2896 @@
+{
+    "code": 200,
+    "total_results": 8,
+    "search_time": "2.76",
+    "data": [
+        {
+            "id": 361,
+            "name": "JSR GPC Axostep Demo 1",
+            "hash": "221812c0659e203b965bc1d6d27b50a54b309dca9bd62d6a6e9a22d52ca4bf97",
+            "loaded_on": "2019-05-07T12:36:32.000Z",
+            "precedence": "Image",
+            "project_name": "Public Clinical Trial",
+            "project_hash": "6118b0af7a5d4c4069f187f721c97622",
+            "creator_name": "Nitin Kumar",
+            "creator_hash": "erg",
+            "batch_number": 1,
+            "parameters": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Data name",
+                    "value": "RSLT5047",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Sample name",
+                    "value": "181030_AP1946r3_H_P",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 1",
+                    "value": "12.99",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 1",
+                    "value": "43403.94884",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 1",
+                    "value": "43403.94889",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 1",
+                    "value": "13505.051",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 1",
+                    "value": "226.654",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 1",
+                    "value": "100",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 1",
+                    "value": "100",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 1",
+                    "value": "55.459",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 1",
+                    "value": "1094",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 1",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 1",
+                    "value": "0.994",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 1",
+                    "value": "8568",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 1",
+                    "value": "10355",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 1",
+                    "value": "12413",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 1",
+                    "value": "1.209",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 1",
+                    "value": "1.199",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 1",
+                    "value": "43897",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 1",
+                    "value": "9463",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 1",
+                    "value": "1151",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 2",
+                    "value": "18.083",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 2",
+                    "value": "43403.94884",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 2",
+                    "value": "43403.94889",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 2",
+                    "value": "0",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 2",
+                    "value": "0",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 2",
+                    "value": "0",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 2",
+                    "value": "0",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 3",
+                    "value": "0",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 3",
+                    "value": "0",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 3",
+                    "value": "0",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 3",
+                    "value": "0",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_13_40",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_13_40",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_13_40",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Analysis Info",
+                    "name": "Sample ID:",
+                    "value": "Sample ID",
+                    "unit": ""
+                },
+                {
+                    "step_name": "Analysis Info",
+                    "name": "Request #:",
+                    "value": "Request ID",
+                    "unit": ""
+                },
+                {
+                    "step_name": "Analysis Info",
+                    "name": "Date Received:",
+                    "value": "08-JAN-16",
+                    "unit": ""
+                },
+                {
+                    "step_name": "Analysis Info",
+                    "name": "Project #:",
+                    "value": "98-039-A",
+                    "unit": ""
+                },
+                {
+                    "step_name": "Analysis Info",
+                    "name": "Date Completed:",
+                    "value": "25-JAN-16",
+                    "unit": ""
+                },
+                {
+                    "step_name": "Analysis Info",
+                    "name": "Title:",
+                    "value": "Glass Samples",
+                    "unit": ""
+                },
+                {
+                    "step_name": "Analysis Info",
+                    "name": "Requestor:",
+                    "value": "Objective:",
+                    "unit": ""
+                },
+                {
+                    "step_name": "Analysis Info",
+                    "name": "Group",
+                    "value": "SUMMARY:",
+                    "unit": ""
+                }
+            ],
+            "images": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F181030_AP1946r3_H_P.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=ivWvhplRdv0KPB%2FpZRTXqSL41IDlSHfvVdZVXRdhHJmN3o8TGCdx4%2FCoWQv0KLxEx4DrBoKUg%2FSX3xkGA9do1%2BdNjCb726QF2TgoYQAWFpgwBzU3NqYCkr8iIhCMLFvWLujBOZarUpELeMPwOvN7gjuCd5N6jNAs69b0CsvYmU4teEuTzZ83%2BIP32i1DzagOQZU3VeeD8BxsybFlN3Y2OObdCOSpfvVxALirGuXETCTqM2XkooqTPUtouGvKnQm7Sjbrw9Q%2BoUmB7nlDI5RCuosOSzyDeCU88hzmH9J9zugdQIrt30NmXaWeifv%2FrQQ%2F4a3KKZeArCho1T2iPV0n5A%3D%3D",
+                    "hash": "8bbc13ccd2b5917ce42a1191df139b4d"
+                },
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_13_40-Deattenuation%20Ellipticity.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=UjpEQ5ve4fk2PwJCWIKtsjfTc7c2yh36TOuCbuHaFeV%2FNVu6RqLwfVVNIg3zAcUEGkHW%2B8AtOtG%2FrR6Jf2eRjqX3inbusJPW9PR7rY%2BQsHaLWJP9YL2gslbO656%2BPq2Rk3KTzvWM5%2BDoMdg7s2zeVc1X60BRoYfEujcyCjeltewKyK5UvZ%2FlAz7tuhXQKG1eWYrh1JOYKYR%2BwZhVFjeES5Hfs7fmwW44tgGiirOnv3xKr08buhRr2m%2FF%2Bpijvq0SwBB5ojE7%2FAdN8AXNcT6kn3i%2F%2FZ%2BLXzLlmXknlkq9gf0Vf2Vn8JDgoi1m6fWMZZn2tiGxA4FnvYHMKcVOMSckeA%3D%3D",
+                    "hash": "b486b61ef697c11fa36146737197c46b"
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_13_40-Depolarization_index.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=nwXp1WTD8IWt01ngtFWhQ5UMODK%2BsjvqvJi1jgtk4MqUUOYJWg%2F9g%2BgitGR5PlZvrx73B7mmD5hETl3wvbOtgWaQiWPa%2BShuaeomRQcDqzroqIbMGQrB0Xzmgd%2F9a%2Foh06VQ%2BxJLBCUU84w2mvpVXI74N8tMIR775krPY%2Bh5bLU%2BqqNfpOV9P8TbCH0qurn%2Bu4T3yGLrTEYzGJ3gFBQclGuwVmVhaC9NswJtda4DwTKIjWmpvQdvHx8M%2B3obQ%2FnueKX5wA9It5cXG%2BO%2FozB2cNvN0TUYsrw%2FwZjGdGLRSWj7nikVwEyrxw1FW7dNVedsidSjN7J2JB5KevCy%2BqHEzQ%3D%3D",
+                    "hash": "43732339cdcd5b534cdabf714c87809b"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_13_40-Transmittance.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=Uk%2BIm0j%2B0FH8q4%2F5G98e4bNcFQ52QvPQLKHE%2BH2opU8whB9ANgmCWQFx6Ibu7UF1%2FLZYju2CwZHZzaumyEDFm8W0W4iv5XGKVhACE8xDJshocdpWA5dxry2geZ0tarVKPVNp45upYJBuS9nJiODgOq5DWP2%2Fu%2FQ9NBWTDs46W8wyVTfRjFryzJxO98ZdDvbyCOCcazZM4f2s317O1%2B%2B2Db034zds5EAyHy4yy1NZNDO%2FWUoEwwQgnp%2BnpQ9edGytIQcNozHsmLsajG7wRxwMm3ZTcGW2AitfGhmwJBCpPhqwUnoqkIueM28HPt0wG%2BbCmpRQ7lAnlhl5jULQz2tI%2Fw%3D%3D",
+                    "hash": "74867a00e2648ebb1eaedd297c01fbdf"
+                }
+            ],
+            "plots": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "plottype": "line",
+                    "plottitle": "Chromatograph RI",
+                    "xaxistitle": "Time (min)",
+                    "yaxistitle": "RI (mV)",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "plottype": "line",
+                    "plottitle": "Chromatograph UV",
+                    "xaxistitle": "Time (min)",
+                    "yaxistitle": "UV (mV)",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Depolarization Index",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Transmittance",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                }
+            ]
+        },
+        {
+            "id": 361,
+            "name": "JSR GPC Axostep Demo 1",
+            "hash": "221812c0659e203b965bc1d6d27b50a54b309dca9bd62d6a6e9a22d52ca4bf97",
+            "loaded_on": "2019-05-07T12:36:32.000Z",
+            "precedence": "Image",
+            "project_name": "Public Clinical Trial",
+            "project_hash": "6118b0af7a5d4c4069f187f721c97622",
+            "creator_name": "Nitin Kumar",
+            "creator_hash": "erg",
+            "batch_number": 2,
+            "parameters": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Data name",
+                    "value": "RSLT5049",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Sample name",
+                    "value": "181030_AP1946r3_L_P",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 1",
+                    "value": "13.682",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 1",
+                    "value": "43403.9697",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 1",
+                    "value": "43403.96975",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 1",
+                    "value": "12618.9",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 1",
+                    "value": "210.288",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 1",
+                    "value": "100",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 1",
+                    "value": "100",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 1",
+                    "value": "53.358",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 1",
+                    "value": "1311",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 1",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 1",
+                    "value": "1.385",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 1",
+                    "value": "3493",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 1",
+                    "value": "4474",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 1",
+                    "value": "5554",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 1",
+                    "value": "1.281",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 1",
+                    "value": "1.241",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 1",
+                    "value": "29097",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 1",
+                    "value": "4429",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 1",
+                    "value": "467",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 2",
+                    "value": "18.075",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 2",
+                    "value": "43403.9697",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 2",
+                    "value": "43403.96975",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 2",
+                    "value": "undefined",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 2",
+                    "value": "undefined",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 2",
+                    "value": "undefined",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 2",
+                    "value": "undefined",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 2",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 2",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 2",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 2",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 2",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 2",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 2",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 2",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 2",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 2",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 2",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 2",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 3",
+                    "value": "undefined",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 3",
+                    "value": "undefined",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 3",
+                    "value": "undefined",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 3",
+                    "value": "undefined",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 3",
+                    "value": "undefined",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_14_04",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_14_04",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_14_04",
+                    "unit": "undefined"
+                }
+            ],
+            "images": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F181030_AP1946r3_L_P.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=Jwm6jKXGjHTs%2FpgmCG%2FRMcFobrCdPEIh8fT10gVnoFQ090BPSQU6uxp9uxFtzGDXsTW0u1OUm%2FBqNzYzoiLcnnh8CEAfRln50jII5UCCHBCrEawKZzuyoTzyVGH3SnNc8ecKCJl7MKwCyG6wI4bLTHUZYII%2B1d2FkBfKVYxoAqHPJ5IiTX%2B13WUH0azQvsy30Bx2eITIkcJv%2BD7onj%2F0YHGmZ6xQadk6eTRX4YoFMPoYu8RYwZEFJ5c3mGwMASfqLWcz8KgC6WR5mnv9ac98ppc5KvlrJmE55D7aS2AyM6XT%2B5FRA3YDVt%2FR345bfBMj8OJjpogtyws5aJvXh%2BvrDQ%3D%3D",
+                    "hash": "ef594f0a773151bf525720d8e80cdf65"
+                },
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_14_04-Deattenuation%20Ellipticity.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=F%2Be64JXp9X24YXr5B7ER5gPl9hKIySvhzhfa%2BTRGqt3%2Fv20frQHK5rTwJIwW8Ck52K7OgOfnEfAmTF%2Bd7mNKOLcHv964E8So%2BWctiMKe8sK1Uc6jGqTad%2FEguMJ%2FCbnSdt61W6%2FVkPolNXoaj5zmy1kLCe2IoNl5JyHhlemsdtsdUZgZYT9tGQUSdfRdu3Q2l2MZN3zN6dxt1U0QvEbu699ttlthx1Otk9ruV4Yr5OmWF5o1MFDe5Kj7MtVBtl710Y5qDidNtLjBjyLdKsBL5VlSbokYqfv%2BAJWtCyu1fE%2FwO1S6Zz3f7GtQ%2B1gznb9lo2GfEGMtRa7ttIcOTjYU0Q%3D%3D",
+                    "hash": "6571f0e2759a38b782423fad97f0580e"
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_14_04-Depolarization%20Index.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=ejYgkV%2FrHZA6jlsh2qZOm193ICJhu%2B0idkLIj9n0OqHTjGlqipm6JmgpcgRBNNRElSv2H1OHT2hyEXSPXij1To49MJGVWGYmYHLZysMbeexOLHn7MT9l5H%2Fbfi4kFesTUtHHg2JvR2lJGOS8PMO3FUf3y29aK09I%2F0BP1Zwy8fq6KORdgIlqL4xPhimd%2BuNdB9iYG7NvA%2FVEreuDi4l%2FMzrz%2BxjlMsT%2FcSIZAOaG13OK9N78oiDgm9%2Fo1nFsMzIhqvku2guvVQu%2BFzVPNl1HNlLt%2F07EM1LagH4HVjTtZdLHRgz5OWVo8Bl3W%2FTB0cHCN723tc1UyKLvdnlxAjJQXQ%3D%3D",
+                    "hash": "0f47705651dc019479df30592b70667e"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_14_04-Transmittance.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=ja4vo7i6auKLlgrDMy7u9rOy3dNj4mhtSQshZxEjvgNJBKotW2XWUtWPGzQ91o8jKUFNzRLwAg4qOBCqrNtORni57psq8VIF20eZCTBUlgVcrR1gu7ALbW4xIzGgfuhXj4hXHaMI0xQ4y6TmBgyxofnoLgLzU%2BvsvJiDhThINI5Nm9rNI3TKnDAqplpnCaA2xa9emPMOtQBfTApxH%2BGgCOSbB4j9Pcg9FFukabO7MfXFsFamaZB9YG4xXdCcisZ1Il1NuI0MeEDwz9g5iGOMEQIj2C%2FHmneek4kLnBSYi1p4rjdb8PLV5xoV2M3mbcahI3EKYd5ld1rwo49yKtKD1Q%3D%3D",
+                    "hash": "8c89a519cfedcec003fccf126293e900"
+                }
+            ],
+            "plots": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "plottype": "line",
+                    "plottitle": "Chromatograph RI",
+                    "xaxistitle": "Time (min)",
+                    "yaxistitle": "RI (mV)",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "plottype": "line",
+                    "plottitle": "Chromatograph UV",
+                    "xaxistitle": "Time (min)",
+                    "yaxistitle": "UV (mV)",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Depolarization Index",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Transmittance",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                }
+            ]
+        },
+        {
+            "id": 361,
+            "name": "JSR GPC Axostep Demo 1",
+            "hash": "221812c0659e203b965bc1d6d27b50a54b309dca9bd62d6a6e9a22d52ca4bf97",
+            "loaded_on": "2019-05-07T12:36:32.000Z",
+            "precedence": "Image",
+            "project_name": "Public Clinical Trial",
+            "project_hash": "6118b0af7a5d4c4069f187f721c97622",
+            "creator_name": "Nitin Kumar",
+            "creator_hash": "erg",
+            "batch_number": 3,
+            "parameters": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Data name",
+                    "value": "RSLT5048",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Sample name",
+                    "value": "181030_AP1946r3_M_P",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 1",
+                    "value": "13.397",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 1",
+                    "value": "43403.95927",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 1",
+                    "value": "43404.55131",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 1",
+                    "value": "13068.006",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 1",
+                    "value": "250.852",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 1",
+                    "value": "99.638",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 1",
+                    "value": "99.065",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 1",
+                    "value": "47.805",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 1",
+                    "value": "1566",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 1",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 1",
+                    "value": "1.19",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 1",
+                    "value": "5263",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 1",
+                    "value": "6195",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 1",
+                    "value": "7132",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 1",
+                    "value": "1.177",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 1",
+                    "value": "1.151",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 1",
+                    "value": "27263",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 1",
+                    "value": "6037",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 1",
+                    "value": "513",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 2",
+                    "value": "16.015",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 2",
+                    "value": "43403.95927",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 2",
+                    "value": "43404.55131",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 2",
+                    "value": "47.446",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 2",
+                    "value": "2.367",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 2",
+                    "value": "0.362",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 2",
+                    "value": "0.935",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 2",
+                    "value": "13.798",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 2",
+                    "value": "26868",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 2",
+                    "value": "3.009",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 2",
+                    "value": "2.606",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 2",
+                    "value": "315",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 2",
+                    "value": "331",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 2",
+                    "value": "343",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 2",
+                    "value": "1.048",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 2",
+                    "value": "1.039",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 2",
+                    "value": "513",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 2",
+                    "value": "361",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 2",
+                    "value": "138",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 3",
+                    "value": "18.073",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 3",
+                    "value": "43403.95927",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 3",
+                    "value": "43404.55131",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 3",
+                    "value": "0",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 3",
+                    "value": "0",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 3",
+                    "value": "0",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 3",
+                    "value": "0",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_14_27",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_14_27",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_14_27",
+                    "unit": "undefined"
+                }
+            ],
+            "images": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F181030_AP1946r3_M_P.png?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=lvxyOPzEVwYqsOCqZFEhVI18Ep8kS%2Byk4MVeXk0wd8oV3Apw3XZGiUwTVPkZUN%2FuoaIgpMjgDQXsjJsZjE8LUgXJXZG86eTywtSsxeyMxhz2TDumhzpcenyOiBZGy4NEUufjiKF9sUrMiBnmxD%2BoiwMv%2B1o8vY0bnrsi4%2Bu7BlfHiqfuLenCfKvcHQVE9NdrDYIjWgK%2B7ssblUZmZ9xKk2cOf3cFFLrASdOegKFM6ysygoieNElVcXmnoWAjYlJbGelMI2bHliMOxYToBggRmbi0KicNJgOHbwYwC3juTS7pz0Ider0ADvx4wtySs2EIWj4ckja%2FvxtG92MoougPVQ%3D%3D",
+                    "hash": "74410cf9b9bd5e6f8ace884bf87f9d3d"
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_14_27-Depolarization%20Index.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=alk5CWb7ukQ4Qf0m3ueyYWgU8CZL4OHFkV%2BTDWPGM9TMYQc%2Bn9t3AuDAOagxeMs6e%2BKqizlQx2luPhnAXIqnpvk9HIGu4NKi%2Fmo8Pa5QiPoYxmh6spdGIx%2F8VYccPOfRk3jhtrsyGPs1hTk6SWN%2FyQsZ6F1GErm%2FliHkIYK82kcdKKArrRKIq8m6KktX%2B2rgN8%2BkggPgS5Uaiq5VRopLZZgtnzAulkvZYzVvZnlvbw7H2T4C3UEa3qDrTZILGhatIMaIE8dcheiWISD49IvMyWTd7c7gAtJDpNFgKFu4HElw8XSYfbE6JAkJMKtmv%2FTJ8Aw3N%2B2v0lfHr7gYAUPDrg%3D%3D",
+                    "hash": "1034ffdd71206d1907a5f9c9920df484"
+                },
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_14_27-Diattenuation-Ellipticity.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=FXc9AtWM96fTKtTiJkHoIYDbC5PAPE9g8AIBoquRYq%2FgCdVr73vL%2BtiegjAB%2FQ9SPAMcQrPkZ9xrmosVxwXCz1MwL1VhFAOdfxOFk8XzNnF4k%2Bw5SNYSmw2NS%2FQVSs%2B07eGtnZxO1OXurRxesJGnKzGfej8B8UGjFAjZGei9QL0b%2Bbu8lLgTlC0I%2BaVlzCQT8CM7%2Fs0yebP7GhkcgEkxAkI7ogB4vl86RRpzcQW%2Ff8zJbCgm1bN7HH4AHwYfI7ZXL7zHLjwG%2FpZJOWYS0HlSwkHAQpU%2BdtZr4BM%2FgPYZc8%2BRgfHkJv3OWK0flvkop%2FyuTwLOPX5%2Bv77Bf3m0%2FyHhbA%3D%3D",
+                    "hash": "13f03a98d278db73ff21aea72dfc759f"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_14_27-Transmittance.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=dEg4BxxbgzthUCuuTKuWDTV%2BSC8BvUcg%2BC8L1jt0UTysgpVDAiTWHF0n6Ah3YWMQ5OlXqoMOL5kH%2BwpSp3DiG4pyvBaAuTjgmP1R0Cq%2BW6cJnRy89ruIJ%2BNF7hiLcjnG%2BGm%2BS3P8nOvjIXr3iuNwjK%2Bxnqvep6aoFe6sifzZ9c0Kkvt8UG2E%2BCC9h8kSTHdg3xzyGoc7%2Bkilz0tYMdb3Xri5JcdzUpj2ks%2FzDZeN8jTWVT%2BlHrq7pAE7A%2B9lCa%2FzqHf6ieTpbI%2B%2F5S155M0Bt%2FfdqerHicJD%2FSfVWiz6FnXi%2F1SNzyOFt2msUT5Nrfg4fRovZjIGJfev2u4%2BAGrKIA%3D%3D",
+                    "hash": "2b9a220ac22e4fdedd73a631481cd9a2"
+                }
+            ],
+            "plots": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "plottype": "line",
+                    "plottitle": "Chromatograph RI",
+                    "xaxistitle": "Time (min)",
+                    "yaxistitle": "RI (mV)",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "plottype": "line",
+                    "plottitle": "Chromatograph UV",
+                    "xaxistitle": "Time (min)",
+                    "yaxistitle": "UV (mV)",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Depolarization Index",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Transmittance",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                }
+            ]
+        },
+        {
+            "id": 361,
+            "name": "JSR GPC Axostep Demo 1",
+            "hash": "221812c0659e203b965bc1d6d27b50a54b309dca9bd62d6a6e9a22d52ca4bf97",
+            "loaded_on": "2019-05-07T12:36:32.000Z",
+            "precedence": "Image",
+            "project_name": "Public Clinical Trial",
+            "project_hash": "6118b0af7a5d4c4069f187f721c97622",
+            "creator_name": "Nitin Kumar",
+            "creator_hash": "erg",
+            "batch_number": 4,
+            "parameters": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Data name",
+                    "value": "RSLT5045",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Sample name",
+                    "value": "181030_AP2095_C",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 1",
+                    "value": "13.708",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 1",
+                    "value": "43403.92799",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 1",
+                    "value": "43404.64608",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 1",
+                    "value": "10562.861",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 1",
+                    "value": "99.199",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 1",
+                    "value": "94.019",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 1",
+                    "value": "81.353",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 1",
+                    "value": "99.164",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 1",
+                    "value": "381",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 1",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 1",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 1",
+                    "value": "2454",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 1",
+                    "value": "4396",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 1",
+                    "value": "6800",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 1",
+                    "value": "1.792",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 1",
+                    "value": "1.547",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 1",
+                    "value": "43522",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 1",
+                    "value": "4349",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 1",
+                    "value": "475",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 2",
+                    "value": "16.817",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 2",
+                    "value": "43403.92799",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 2",
+                    "value": "43404.64608",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 2",
+                    "value": "671.916",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 2",
+                    "value": "22.738",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 2",
+                    "value": "5.981",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 2",
+                    "value": "18.647",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 2",
+                    "value": "23.592",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 2",
+                    "value": "10133",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 2",
+                    "value": "1.793",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 2",
+                    "value": "172",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 2",
+                    "value": "181",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 2",
+                    "value": "192",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 2",
+                    "value": "1.053",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 2",
+                    "value": "1.061",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 2",
+                    "value": "316",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 2",
+                    "value": "165",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 2",
+                    "value": "105",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 3",
+                    "value": "18.088",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 3",
+                    "value": "43403.92799",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 3",
+                    "value": "43404.64608",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 3",
+                    "value": "0",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 3",
+                    "value": "0",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 3",
+                    "value": "0",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 3",
+                    "value": "0",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_14_49",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_14_49",
+                    "unit": "undefined"
+                }
+            ],
+            "images": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F181030_AP2095_C.png?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=RkZ1WshUQAyOks6MjBPCPhEzytbweS2uOYFO%2Bt8hIQBBOMVAIKXoKNXducv75zhprpVN3ptFrWlm8Za0sDJCA6p9kffJkOf2UW2jdBQ5MScJpqy1FhurFxTOLweuP%2FXISXkSHJEsnvVBXRHJ7x%2FjPOcUHFwwoCp34iD%2FzQpDbhIJVzooDdktiZ3L5sT6dNStwXvq7FycCStrfQ0Nk%2FS5Cpv6lJUr0ziHPOk80%2BampO5mv8QBxNgI%2FfxkYB3BzJxAt7YTPxcYF4hMMLKrnHCKoKzWKPgeVEGVGjQOfJOTdHvklQ80dVNRgkEfejNfF%2B2Nl%2B5eLjyQsCra93Lgwoa2rw%3D%3D",
+                    "hash": "a85ec027db8807d6fc46cfc8ae2ecf65"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_14_49-Transmittance.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=nemNsr0vyeyZ9OVBcgOj%2BD8%2B1%2FKNOUmlc8acw%2F2aSEhz%2BXknqh9oYto%2FE83zIrfjeT3burtz4joMnx%2Frh6zUdI1bqLZuWE26qGwnh4vxa160Ipu6JCzOE8j7yMmbShqYzW5eOzJS9B4gbYsItFUzotyWS7sfWTTnUqMZrZFMr0oTmm866sOcJ%2BUy9mI%2FY%2Fo7DA5ipPgMLDkoV%2BqhzaglITIjtVj%2FjkZ2qQ5sAck6DGsughL%2FT73MT8eZLMMYVp1rKjekaSp5BfeplAuNxTstluV4iUmMZyTm69mMCkBPd7XHakKiMfxc15K2tQw8khLS7pnA0R2lteC2ktKIDPU1Cg%3D%3D",
+                    "hash": "7ebab038edba44523e8c72cee9af0a18"
+                },
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_14_49-Diattenuation%20ellipticity.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=jCMAUlkndrYYqztBrRVYgWOsMFW1fe9ToODmPYYMGE5dgraSp1wRzBYWYC7F4rG5%2BlnotMdofZIn7UbMfsOobCc84XX8GtEaOXmjJJK%2F2LRBIZekNN45U1k4X0bKmKixMXLug8UnL29%2FDF8%2Fwq9ztSfvwpPYWfsSPOseIfiGbyDoqM57qFCaSGx%2B6BmSoeFoWXpP5JE4WxP8biq%2F3eysEhufOTqmFHeqHHZTX%2BU4bEN996bHt7pDxTAYxD2NNG%2BuOF%2FQtKld6A%2BvPbchDsB3cKKmpd0JKlVXFdS%2FCuBPAqWmh9KL1zHBZAeQmsOu6oki4%2FuWbUE66au2ch21YCh%2Bqw%3D%3D",
+                    "hash": "125d7d6f29c45dfcea47f4d7db591ee8"
+                }
+            ],
+            "plots": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "plottype": "line",
+                    "plottitle": "Chromatograph RI",
+                    "xaxistitle": "Time (min)",
+                    "yaxistitle": "RI (mV)",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "plottype": "line",
+                    "plottitle": "Chromatograph UV",
+                    "xaxistitle": "Time (min)",
+                    "yaxistitle": "UV (mV)",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Transmittance",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                }
+            ]
+        },
+        {
+            "id": 361,
+            "name": "JSR GPC Axostep Demo 1",
+            "hash": "221812c0659e203b965bc1d6d27b50a54b309dca9bd62d6a6e9a22d52ca4bf97",
+            "loaded_on": "2019-05-07T12:36:32.000Z",
+            "precedence": "Image",
+            "project_name": "Public Clinical Trial",
+            "project_hash": "6118b0af7a5d4c4069f187f721c97622",
+            "creator_name": "Nitin Kumar",
+            "creator_hash": "erg",
+            "batch_number": 5,
+            "parameters": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Data name",
+                    "value": "RSLT5046",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Sample name",
+                    "value": "181030_AP2096_C",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 1",
+                    "value": "12.87",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 1",
+                    "value": "43403.93841",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 1",
+                    "value": "43404.64692",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 1",
+                    "value": "10080.911",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 1",
+                    "value": "93.429",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 1",
+                    "value": "90.368",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 1",
+                    "value": "68.816",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 1",
+                    "value": "99.235",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 1",
+                    "value": "335",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 1",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 1",
+                    "value": "1.468",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 1",
+                    "value": "5923",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 1",
+                    "value": "11640",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 1",
+                    "value": "18248",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 1",
+                    "value": "1.965",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 1",
+                    "value": "1.568",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 1",
+                    "value": "124001",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 1",
+                    "value": "10771",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 1",
+                    "value": "478",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 2",
+                    "value": "16.835",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 2",
+                    "value": "43403.93841",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 2",
+                    "value": "43404.64692",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 2",
+                    "value": "1074.477",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 2",
+                    "value": "42.337",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 2",
+                    "value": "9.632",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 2",
+                    "value": "31.184",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 2",
+                    "value": "24.433",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 2",
+                    "value": "9468",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 2",
+                    "value": "2.27",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 2",
+                    "value": "1.062",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 2",
+                    "value": "159",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 2",
+                    "value": "163",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 2",
+                    "value": "166",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 2",
+                    "value": "1.023",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 2",
+                    "value": "1.023",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 2",
+                    "value": "276",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 2",
+                    "value": "161",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 2",
+                    "value": "102",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 3",
+                    "value": "18.083",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 3",
+                    "value": "43403.93841",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 3",
+                    "value": "43404.64692",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 3",
+                    "value": "0",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 3",
+                    "value": "0",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 3",
+                    "value": "0",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 3",
+                    "value": "0",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_14_49",
+                    "unit": "undefined"
+                }
+            ],
+            "images": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F181030_AP2096_C.png?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=EQJnrrun0Y7R6tjyF6rLyOLRjVWmVXqW2J7rVwAdC%2B0WYskEATpYLSoHm5UxFiJBTaSpiAir%2BsCKCnPcF3pRsukCoCPPG5QhNWVyAGXBroth6rJkzFt35yUTvrzFYGiJR%2Bmo5%2FHyBDKLPNOne0ZvnVmroxNSJ%2F0Y8hfz%2F9UoKJaMFOoi7MqNhQ4yslZIp81m8ag7E8eKAWdBb3aPO4h8Ba%2BUr2K96lK8vkN7oNSbph62vm%2B502n%2BtSVWq%2FwiYSdOBWRfvGnP8oPc1ridrhAguoNnBahZ1AftuzBNMPg2vT6awlXwHlyRzR8dtG%2FWBtsjUHUGpR%2BRV6JUCPwaSLfn8A%3D%3D",
+                    "hash": "3dded1df92f2c0769ac7bfd6e327e481"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_14_49-Transmittance.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=nemNsr0vyeyZ9OVBcgOj%2BD8%2B1%2FKNOUmlc8acw%2F2aSEhz%2BXknqh9oYto%2FE83zIrfjeT3burtz4joMnx%2Frh6zUdI1bqLZuWE26qGwnh4vxa160Ipu6JCzOE8j7yMmbShqYzW5eOzJS9B4gbYsItFUzotyWS7sfWTTnUqMZrZFMr0oTmm866sOcJ%2BUy9mI%2FY%2Fo7DA5ipPgMLDkoV%2BqhzaglITIjtVj%2FjkZ2qQ5sAck6DGsughL%2FT73MT8eZLMMYVp1rKjekaSp5BfeplAuNxTstluV4iUmMZyTm69mMCkBPd7XHakKiMfxc15K2tQw8khLS7pnA0R2lteC2ktKIDPU1Cg%3D%3D",
+                    "hash": "4f889aab3c793de2b451f094688bae22"
+                }
+            ],
+            "plots": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "plottype": "line",
+                    "plottitle": "Chromatograph RI",
+                    "xaxistitle": "Time (min)",
+                    "yaxistitle": "RI (mV)",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "plottype": "line",
+                    "plottitle": "Chromatograph UV",
+                    "xaxistitle": "Time (min)",
+                    "yaxistitle": "UV (mV)",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Transmittance",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                }
+            ]
+        },
+        {
+            "id": 361,
+            "name": "JSR GPC Axostep Demo 1",
+            "hash": "221812c0659e203b965bc1d6d27b50a54b309dca9bd62d6a6e9a22d52ca4bf97",
+            "loaded_on": "2019-05-07T12:36:32.000Z",
+            "precedence": "Image",
+            "project_name": "Public Clinical Trial",
+            "project_hash": "6118b0af7a5d4c4069f187f721c97622",
+            "creator_name": "Nitin Kumar",
+            "creator_hash": "erg",
+            "batch_number": 6,
+            "parameters": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Data name",
+                    "value": "RSLT5055",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Sample name",
+                    "value": "181030_TU4862_P",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 1",
+                    "value": "12.797",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 1",
+                    "value": "43404.03228",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 1",
+                    "value": "43404.36616",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 1",
+                    "value": "4324.177",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 1",
+                    "value": "43.898",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 1",
+                    "value": "99.711",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 1",
+                    "value": "98.018",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 1",
+                    "value": "94.916",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 1",
+                    "value": "362",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 1",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 1",
+                    "value": "1.154",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 1",
+                    "value": "8172",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 1",
+                    "value": "13130",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 1",
+                    "value": "19261",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 1",
+                    "value": "1.607",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 1",
+                    "value": "1.467",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 1",
+                    "value": "83750",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 1",
+                    "value": "11610",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 1",
+                    "value": "538",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 2",
+                    "value": "16.37",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 2",
+                    "value": "43404.03228",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 2",
+                    "value": "43404.36616",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 2",
+                    "value": "12.529",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 2",
+                    "value": "0.888",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 2",
+                    "value": "0.289",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 2",
+                    "value": "1.982",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 2",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 2",
+                    "value": "247",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 2",
+                    "value": "249",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 2",
+                    "value": "251",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 2",
+                    "value": "1.008",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 2",
+                    "value": "1.008",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 2",
+                    "value": "288",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 2",
+                    "value": "253",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 2",
+                    "value": "180",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Retention Time Peak No. 3",
+                    "value": "18.078",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Analytical time Peak No. 3",
+                    "value": "43404.03228",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Calculated time Peak No. 3",
+                    "value": "43404.36616",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area [mV*Sec] Peak No. 3",
+                    "value": "0",
+                    "unit": "mV*Sec"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height [mV] Peak No. 3",
+                    "value": "0",
+                    "unit": "mV"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Area% Peak No. 3",
+                    "value": "0",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Height% Peak No. 3",
+                    "value": "0",
+                    "unit": "%"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Half Bandwidth Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Theoretical Plates Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Resolution Factor Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Asymmetry Factor Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mn Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mw/Mn Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Mz/Mw Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Start Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "Top Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "name": "End Molecular Peak No. 3",
+                    "value": "0",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_15_13",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_15_13",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_15_13",
+                    "unit": "undefined"
+                }
+            ],
+            "images": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F181030_TU4862r2_P.png?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=BvLQnsq%2BQYVWQTtxgSd8eGVJB6VAA6Q8LNtErZi1dih0Q%2BR3MtaAkzwKkKyK30ryCd1Dxlz%2FuGZ58KKUPawQmr%2B1NMHoR5uzYgbsjfYN0hE2EyIV8kLFy4Sg1lmURW28fUh4RLxmn9zVvivOboS%2F5UIVKPDtqfzlppTA9VSqq11OcJkLrUojKMc0FXAFdeixvR6B5YUGWGgZXhrrE4vgArCFVnoFuz8f5SZ3IAzL8ttNPDYbhOfKI2PO3ZTc1mLTQNmN3JHMJcPPUgVFadK%2F76qd32mqwlN%2FnvFc6SBSEKlPzTcBfbx1EQyv7FLa0JRwKaXFxx2T85Q8IKWK0Jozow%3D%3D",
+                    "hash": "c4cf9476687bd2fd0a510ba2f8cee55f"
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_15_13-Depolization-Index.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=bN3YtKtYnM4GG%2Fjh%2FIXpzGSJvyZ0bJl7yATIYqs%2FuL1lhgLy9gxRc9mU7yhk66HsLiFNf28SBvS008M5lNOtsWrRbblRNJVX6v3yyVSb2fprd9A%2FGZWXL4w4C3Vb5DlW2IMFXUSktkZM526iQqA1Uw%2BLH%2F1BYjBnz%2FF5pYvn3SFnArN5LjkL2wzHA01OBCpJvzcbZVPbySwwAlKD3dgjR2cO9iVaIaj%2FEfkdJUb5McBMgcbN%2Fqz58pB7IW%2BA1bOu0T%2FSklUnco8%2BnhviiiWTplspdh5ma1dNKf%2FDR8rfIO9RdvzPcLanyD8qC%2F1YCNC5BC1D4OBIDcN%2F6%2FqXQGXR4w%3D%3D",
+                    "hash": "95015c4d7e98341d02ccb6a602614051"
+                },
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_15_13-Diatennuation%20Ellipticity.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=oDgxy6uqkHMrirjN56wqGbU%2FbMEVrdEdC8DxU6gtyMARyozZqAUKnlnXGZLCu%2BXvIomracXFjACgXoXQs0odh7WhPDt8ibiMIPaBDNPgr%2B%2BDIGAtGACK0u6Lt%2F1RBTjiZXu89ISQIhAE92DWxZ5WU8hZMvLZYD%2BEdK6bB2TM7B0Zizrlgjr%2FXgh%2BnlrNAiDHojy75AaxSD%2BEQNgvWnfLbipBy52%2B4euzOjotN5I4R4hWy85yWwo4qWClfuZH%2F1d%2FalnybImcutD6LA7E3C64p5MqS2EwCF8rkipTEihRxuDG%2FRhNmsQdZvR7SXssrLpfaFmEgHF54fHDjqz%2BljkeOA%3D%3D",
+                    "hash": "bb2c9b4fe275129fd5255ec650149e5d"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F361%2F2016_09_01_14_15_13-Transmittance.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=g4fhFvD3qGa9YcSnN3RfGF53v3sRvepCrfcGqfEGp1WPgdVGQdvpjYx4vZj%2Bh47w%2F7fY%2BZFOQcH14IUrOEdzKE2HYQDTpO%2BGgK2%2BrNK86zCcgzpMvv%2BMOs69d55stPe%2F6kupCj7D%2FuFtq8BT4IUShpsr0uaEKC%2F8WsNMgAV5FEoigREkdr2H4TBOh5NtVvJ5QniqRCGzKFROddZZ8VgMxho5MMC0qepwN%2FrCVyZOApeI2OpzBYKSh%2BqyNJLaJQJLY5eS2ZGqh3ImqKxB5L%2BwHVVZi34yS4KUbYIz6Xsawg3hI0GXOxELZ5gSj0m1GWiMvoSUWrIBoQ1T7RgXEz%2BWlQ%3D%3D",
+                    "hash": "a9aaa3e3a964c3f465c34d592f2dce59"
+                }
+            ],
+            "plots": [
+                {
+                    "step_name": "Tosoh GPC",
+                    "plottype": "line",
+                    "plottitle": "Chromatograph RI",
+                    "xaxistitle": "Time (min)",
+                    "yaxistitle": "RI (mV)",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "Tosoh GPC",
+                    "plottype": "line",
+                    "plottitle": "Chromatograph UV",
+                    "xaxistitle": "Time (min)",
+                    "yaxistitle": "UV (mV)",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Depolarization Index",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "Pixel",
+                    "yaxistitle": "Transmittance",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                }
+            ]
+        },
+        {
+            "id": 363,
+            "name": "testinglkaslk",
+            "hash": "28a9671e62efecc8401130d429dc54d01a19c16f7d0eec37477ec86df9ff342e",
+            "loaded_on": "2019-05-07T15:11:14.000Z",
+            "precedence": "Graph",
+            "project_name": "Public Clinical Trial",
+            "project_hash": "6118b0af7a5d4c4069f187f721c97622",
+            "creator_name": "Nitin Kumar",
+            "creator_hash": "erg",
+            "batch_number": 1,
+            "parameters": [
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_13_40",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_13_40",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_13_40",
+                    "unit": "undefined"
+                }
+            ],
+            "images": [
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F363%2F2016_09_01_14_13_40-Deattenuation%20Ellipticity.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=hEYfCW1AFvyal6xU%2Fdl85oVKYmXkX2oKTBt8%2F4DBUSuvRF15WdeLxMyJyOCYbv1s6f7KLgA%2FQ9eZO4xMYmutT3b1ZXZAB%2F2ZCQk2Y0NT45Ceau5ED%2BI4BiLwdJACbejLVVlrkiZbDQFWG%2Bi9Jah%2Fu6ObYaZi%2BV%2BgICo7XkoZcTxrR53IWaJvO3E0bNHCySlB9vzprtwX7XyvNaqU1q48j7ExTxbdOswugw%2FszDCNKDDoXeRSF%2FDZtgGj8Cbclhzq9bD8polguhZmneCj6DrTSokhTXX5cbncASccYWPQBAlyumn13RqHeMKb8Ljthfh%2FplLUEdyg4GLv%2FLVdF9L7rA%3D%3D",
+                    "hash": "d6bacd6604104e0a6bd6a94bdcb5490b"
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F363%2F2016_09_01_14_13_40-Depolarization_index.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=PF6GfogmwUAvI8zKmvUUMbc%2Fl3PNgtVT2PjVvAxht6sN1Lk5zxrHgiWkPAL%2B3nh1qON023FuKutVxCHGGUI0o3ejJXbqYvtfn41Q2VFhYoxaaUBntccUt9X354MY8tEzKbouEHKWbK0YdoMvn7wmYojI5xNkAdFxos1zK5n6t47E8y%2FU8wSJVWU%2B17RFpyDF0yGSl5I218PNQr98%2BfzKMaXYV%2BwAUqoc5bbhxzz7PdDTZ3%2BifjUmmZAO%2BKxGVRFU3y8u9z9%2FT108eo9%2Brnhx16aQEtvxXmoAD0oBrkcSRmKV27eUQ8T3B%2FBnOuiTXFjojFtEjz5OhfASyAPDsBT8YA%3D%3D",
+                    "hash": "a1948334e6728e5efd98487ac96800d5"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F363%2F2016_09_01_14_13_40-Transmittance.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=L1FUlcdj2dFPdCyn2KVUc2313QRKNtOGc%2FNoslzGnpOz12%2BsTjuxgHJ7wDrGTJm3%2FbGTml2zpvliZUmqmzAUsh3G%2F3l1vsatZ23fswU%2BQyzoh41wCOwdGOhbOzr4qgDEVMhTXCyJhFDE3MKSroZitW3aZUvtLwO7AQI4DMlrGgtNwpkGLpJ%2Be3ippPBtxvfz8xNOQpwsN8iW55yYqri054e4f2FXJx%2BoESDZoP4S%2FCHAFtzu%2Fj0kumpnOdJDUetZwWEG3OguiT8AU%2BJ%2F82g5tS7ATz5nAa1eho3OhRJ2UFKL1Jx99XwceI%2BLSU5xnUro8aIgRCvYNIiN8wMJO%2F1GoQ%3D%3D",
+                    "hash": "32500195b2c1a11e0fd0f760d82b2acc"
+                }
+            ],
+            "plots": [
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Depolarization Index",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Transmittance",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                }
+            ]
+        },
+        {
+            "id": 363,
+            "name": "testinglkaslk",
+            "hash": "28a9671e62efecc8401130d429dc54d01a19c16f7d0eec37477ec86df9ff342e",
+            "loaded_on": "2019-05-07T15:11:14.000Z",
+            "precedence": "Graph",
+            "project_name": "Public Clinical Trial",
+            "project_hash": "6118b0af7a5d4c4069f187f721c97622",
+            "creator_name": "Nitin Kumar",
+            "creator_hash": "erg",
+            "batch_number": 2,
+            "parameters": [
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_14_04",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_14_04",
+                    "unit": "undefined"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "name": "Sample ID",
+                    "value": "2016_09_01_14_14_04",
+                    "unit": "undefined"
+                }
+            ],
+            "images": [
+                {
+                    "step_name": "AxoStep Diattenuation Ellipticity",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F363%2F2016_09_01_14_14_04-Deattenuation%20Ellipticity.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=XJbxt5Q3Ud5uyllhekwy0UqKcynLZQFOZGCkzTZ94VppQhflZP%2B0%2BgoXhjucGnNtU%2Br3MZKrW%2FAiE2sC7YgxnbAJzTab2YvrM2Z6AgZz7cdxbxGCdpdZonE9UbRqP8i53ZOgB5XACenDdAcNJWPHtC01cBQ%2BhLVX4uF1FvhEWIn0hORTX%2FUUsb4Vmw2sJxoWhJqgtWdR00vXg3nkuCJocql378kVhGLX1TJxiiwxHlz8YyateTgisi4Rjd%2BSFMhaRW6r9rpzjLms4VzUWC3X8oYsYTlWSGisq%2FDiD4vXq0CzBh4DwYSOO7hIFdgFPba00QRj7oijua3n0I5%2FtV2DlA%3D%3D",
+                    "hash": "f3d9ae3db4e5b8937e4645c4424a80d4"
+                },
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F363%2F2016_09_01_14_14_04-Depolarization%20Index.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=gEU%2FMRCNeHrNSrEBJiCL1tdkfd5rz9RM%2FGYQ2u1RQNQSVpoy0H12O40awVroT2bu9tb1s4ymsA1ODcugUlSSj1fGoRPBhCYJ%2FotMpi2xkjWjtWBkBGBEqQ5OdgZASQuC8tqGInjcb3VJdkoDPuhnLZ7eV4ApB5L%2B03sImD9lgbIVEN87FEj25MeCirtOklYM%2FhGOIWOq8kngg%2B4veFtg2VeoEFBRMvTeRnTuLmOXGNQEWwUApNxOlAfKhRbsWSvhO51eueD9NlDLTw6RiNWZt2hG9o9EukmV4IyjVmtfXQrHRRDxjZnmREem9ugbbi80I6BYRbXBBFzmupay83RpxA%3D%3D",
+                    "hash": "5d9f2a4c52fd22c2e52de7cc502b88d4"
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "file_url": "https://storage.googleapis.com/nuron-test/Data%2F363%2F2016_09_01_14_14_04-Transmittance.jpg?GoogleAccessId=nurontest%40nuron-201910.iam.gserviceaccount.com&Expires=16447017600&Signature=RPEr6CR9wEpKTlZauEIkLCYLkXETWsQDXEDmg31Oq4aN2UkKjddeJU40pliqUAoRTPjEZ72Cvc0fKDR8INU1yLDk%2F0Redim1V3UfDgwVindSOpLbEg62qvzNU81Si1G5nmkbOw%2FRUefTtwqAzv2dzijLAVLMyCX9SRuxgpbYJ%2Fxp3byrLJc%2Bpg0MqS8pXOcyPraJ2bKoV9ldXmOC2onKSIkciDS%2BL57d7lc1EigqPa3BGWx%2BNLeYxZvprBu3DUmTdTYIaWEswVygeRp1psZd63sDWNnMW7GR4nGzLVKl3EjloAZcoVxOR6AW%2Fl2ApFbJGGEmNkutCc3rLytSos%2FLCg%3D%3D",
+                    "hash": "0f640b750c0793dfabcf370b71cc11a1"
+                }
+            ],
+            "plots": [
+                {
+                    "step_name": "AxoStep Depolarization Index",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Depolarization Index",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                },
+                {
+                    "step_name": "AxoStep Transmittance",
+                    "plottype": "line",
+                    "plottitle": "Depolarization Index X-section",
+                    "xaxistitle": "um",
+                    "yaxistitle": "Transmittance",
+                    "maxxaxis": "auto",
+                    "maxyaxis": "auto",
+                    "minxaxis": "auto",
+                    "minyaxis": "auto",
+                    "hash": null
+                }
+            ]
+        }
+    ]
+}
