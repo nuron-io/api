@@ -1,0 +1,10 @@
+"code": 200,
+    "relations": [
+        {
+            "relations": "MENTIONED_IN"
+        },
+        {
+            "relations": "CONNECTED_TO"
+        }
+    ]
+}

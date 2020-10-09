@@ -1,0 +1,14 @@
+{
+    "code": 200,
+    "where_clause": "  t.email =~ \"(?i).*vinit.*\" OR t.email =~ \"(?i).*verma.*\" OR t.entity_label =~ \"(?i).*vinit.*\" OR t.entity_label =~ \"(?i).*verma.*\" OR t.entity_type =~ \"(?i).*vinit.*\" OR t.entity_type =~ \"(?i).*verma.*\" OR t.id =~ \"(?i).*vinit.*\" OR t.id =~ \"(?i).*verma.*\" OR t.img_url =~ \"(?i).*vinit.*\" OR t.img_url =~ \"(?i).*verma.*\" OR t.location =~ \"(?i).*vinit.*\" OR t.location =~ \"(?i).*verma.*\" OR t.name =~ \"(?i).*vinit.*\" OR t.name =~ \"(?i).*verma.*\" OR t.ref_url =~ \"(?i).*vinit.*\" OR t.ref_url =~ \"(?i).*verma.*\"  return t",
+    "properties": [
+        "email",
+        "entity_label",
+        "entity_type",
+        "id",
+        "img_url",
+        "location",
+        "name",
+        "ref_url"
+    ]
+}

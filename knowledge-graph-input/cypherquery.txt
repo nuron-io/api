@@ -1,0 +1,15 @@
+//Input in HTTP
+
+GET /api/v1/knowledgeGraph/cypher?cypherquery=MATCH (n)-[r]-() RETURN DISTINCT TYPE(r) as relations
+Host: localhost:4200
+api_key: aaa
+secret_key: bbb
+Cookie: connect.sid=s%3A5viTlrnqb-MQpD7q77h7WbFlAb0qM-50.9goucNPkiOPCjiblWGiEbXXb2Zc%2FASw1A8w74oyDvro
+
+
+//Input in CURL
+
+curl --location --request GET 'http://localhost:4200/api/v1/knowledgeGraph/cypher?cypherquery=MATCH (n)-[r]-() RETURN DISTINCT TYPE(r) as relations' \
+--header 'api_key: aaa' \
+--header 'secret_key: bbb' \
+--header 'Cookie: connect.sid=s%3A5viTlrnqb-MQpD7q77h7WbFlAb0qM-50.9goucNPkiOPCjiblWGiEbXXb2Zc%2FASw1A8w74oyDvro'

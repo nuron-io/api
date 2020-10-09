@@ -1,0 +1,37 @@
+{
+    "code": 200,
+    "result": [
+        {
+            "relations": "MENTIONED_IN"
+        },
+        {
+            "relations": "CONNECTED_TO"
+        }
+    ],
+    "allrecord": [
+        {
+            "keys": [
+                "relations"
+            ],
+            "length": 1,
+            "_fields": [
+                "MENTIONED_IN"
+            ],
+            "_fieldLookup": {
+                "relations": 0
+            }
+        },
+        {
+            "keys": [
+                "relations"
+            ],
+            "length": 1,
+            "_fields": [
+                "CONNECTED_TO"
+            ],
+            "_fieldLookup": {
+                "relations": 0
+            }
+        }
+    ]
+}
