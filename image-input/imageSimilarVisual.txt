@@ -1,6 +1,6 @@
 //Input in HTTP
 
-GET /api/v1/image/similar?hash=b8edf1bea0480e1ec97ab04623a38a30e&type=visual HTTP/1.1
+GET /api/v1/image/similar?hash=029b28d15608f136a24b7f7476fa316bced7c078&type=visual HTTP/1.1
 Host: test.nuron.io
 api_key: 2baee6e4-0404-47d8-bdb5-58ecbcd0e646
 secret_key: dfddfwfdsssssssssssss
@@ -9,7 +9,7 @@ Cookie: connect.sid=s%3AyLkiBHiwOMoysM8m04GbFgUYxbuxQl2A.NESuuemtKvv7ANHACUb12iT
 
 //Input in CURL
 
-curl --location --request GET 'https://test.nuron.io/api/v1/image/similar?hash=b8edf1bea0480e1ec97ab04623a38a30e&type=visual' \
+curl --location --request GET 'https://test.nuron.io/api/v1/image/similar?hash=029b28d15608f136a24b7f7476fa316bced7c078&type=visual' \
 --header 'api_key: 2baee6e4-0404-47d8-bdb5-58ecbcd0e646' \
 --header 'secret_key: dfddfwfdsssssssssssss' \
 --header 'Cookie: connect.sid=s%3AyLkiBHiwOMoysM8m04GbFgUYxbuxQl2A.NESuuemtKvv7ANHACUb12iTJUEVrQtZzO7wl9XleYHM'
