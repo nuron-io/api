@@ -1,1 +1,445 @@
-{"code":200,"data":{"pharmacological_info":{"may_treat":["Diabetes Mellitus, Type 2"],"may_prevent":[],"contraindication":["Diabetes Mellitus, Type 1","Drug Hypersensitivity","Diabetic Ketoacidosis"],"Drug_Class":[["Dipeptidyl Peptidase 4 Inhibitor [EPC],Dipeptidyl Peptidase 4 Inhibitors [MoA],Biguanide [EPC],Biguanides [CS]","Dipeptidyl Peptidase 4 Inhibitor [EPC],Dipeptidyl Peptidase 4 Inhibitors [MoA]","Biguanide [EPC],Biguanides [CS],Dipeptidyl Peptidase 4 Inhibitor [EPC],Dipeptidyl Peptidase 4 Inhibitors [MoA]"]],"physiologic_effects":["Decreased Glucagon Secretion","Increased Insulin Secretion"],"mechanism_of_action":["Dipeptidyl Peptidase 4 Inhibitors"]},"product_containing_drug":[{"brandName":"JANUMET","labelerName":"Merck Sharp & Dohme Corp."},{"brandName":"JANUVIA","labelerName":"Merck Sharp & Dohme Corp."},{"brandName":"STEGLUJAN","labelerName":"Merck Sharp & Dohme Corp."},{"brandName":"JANUVIA","labelerName":"A-S Medication Solutions"},{"brandName":"JANUMET","labelerName":"A-S Medication Solutions"},{"brandName":"JANUVIA","labelerName":"Cardinal Health"},{"brandName":"JANUMET","labelerName":"REMEDYREPACK INC."}],"links":{"mayo_clinic":"https://www.mayoclinic.org/drugs-supplements/sitagliptin-oral-route/description/drg-20069730","medscape_url":"https://reference.medscape.com/drug/januvia-sitagliptin-342730","rxlist_url":"https://www.rxlist.com/search/rxl/sitagliptin","drugbank_url":"https://www.drugs.com/ppa/sitagliptin.html"},"product_info":[{"brandName":"JANUMET","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=202270","availableUnit":["mg/1; mg/1"],"availableStrength":["50; 500"],"activeIngredient":["SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"],"strengths":"50mg/1 500mg/1","NDC":"0006-0078","dosage_Form":"TABLET, FILM COATED, EXTENDED RELEASE","routes":"ORAL","labeler":"Merck Sharp & Dohme Corp.","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50/spl-doc"},{"brandName":"JANUMET","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=202270","availableUnit":["mg/1; mg/1"],"availableStrength":["50; 1000"],"activeIngredient":["SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"],"strengths":"50mg/1 1000mg/1","NDC":"0006-0080","dosage_Form":"TABLET, FILM COATED, EXTENDED RELEASE","routes":"ORAL","labeler":"Merck Sharp & Dohme Corp.","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50/spl-doc"},{"brandName":"JANUMET","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=202270","availableUnit":["mg/1; mg/1"],"availableStrength":["100; 1000"],"activeIngredient":["SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"],"strengths":"100mg/1 1000mg/1","NDC":"0006-0081","dosage_Form":"TABLET, FILM COATED, EXTENDED RELEASE","routes":"ORAL","labeler":"Merck Sharp & Dohme Corp.","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50/spl-doc"},{"brandName":"JANUVIA","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995","availableUnit":["mg/1"],"availableStrength":["50"],"activeIngredient":["SITAGLIPTIN PHOSPHATE"],"strengths":"50mg/1","NDC":"0006-0112","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"Merck Sharp & Dohme Corp.","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=f85a48d0-0407-4c50-b0fa-7673a160bf01","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/f85a48d0-0407-4c50-b0fa-7673a160bf01/spl-doc"},{"brandName":"JANUVIA","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995","availableUnit":["mg/1"],"availableStrength":["25"],"activeIngredient":["SITAGLIPTIN PHOSPHATE"],"strengths":"25mg/1","NDC":"0006-0221","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"Merck Sharp & Dohme Corp.","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=f85a48d0-0407-4c50-b0fa-7673a160bf01","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/f85a48d0-0407-4c50-b0fa-7673a160bf01/spl-doc"},{"brandName":"JANUVIA","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995","availableUnit":["mg/1"],"availableStrength":["100"],"activeIngredient":["SITAGLIPTIN PHOSPHATE"],"strengths":"100mg/1","NDC":"0006-0277","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"Merck Sharp & Dohme Corp.","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=f85a48d0-0407-4c50-b0fa-7673a160bf01","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/f85a48d0-0407-4c50-b0fa-7673a160bf01/spl-doc"},{"brandName":"JANUMET","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=022044","availableUnit":["mg/1; mg/1"],"availableStrength":["50; 500"],"activeIngredient":["SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"],"strengths":"50mg/1 500mg/1","NDC":"0006-0575","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"Merck Sharp & Dohme Corp.","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=d19c7ed0-ad5c-426e-b2df-722508f97d67","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/d19c7ed0-ad5c-426e-b2df-722508f97d67/spl-doc"},{"brandName":"JANUMET","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=022044","availableUnit":["mg/1; mg/1"],"availableStrength":["50; 1000"],"activeIngredient":["SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"],"strengths":"50mg/1 1000mg/1","NDC":"0006-0577","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"Merck Sharp & Dohme Corp.","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=d19c7ed0-ad5c-426e-b2df-722508f97d67","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/d19c7ed0-ad5c-426e-b2df-722508f97d67/spl-doc"},{"brandName":"STEGLUJAN","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=209805","availableUnit":["mg/1; mg/1"],"availableStrength":["5; 100"],"activeIngredient":["ERTUGLIFLOZIN PIDOLATE; SITAGLIPTIN PHOSPHATE"],"strengths":"5mg/1 100mg/1","NDC":"0006-5367","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"Merck Sharp & Dohme Corp.","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=c2c553d8-5a9d-4366-bf53-8bdb5a876d19","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/c2c553d8-5a9d-4366-bf53-8bdb5a876d19/spl-doc"},{"brandName":"STEGLUJAN","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=209805","availableUnit":["mg/1; mg/1"],"availableStrength":["15; 100"],"activeIngredient":["ERTUGLIFLOZIN PIDOLATE; SITAGLIPTIN PHOSPHATE"],"strengths":"15mg/1 100mg/1","NDC":"0006-5368","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"Merck Sharp & Dohme Corp.","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=c2c553d8-5a9d-4366-bf53-8bdb5a876d19","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/c2c553d8-5a9d-4366-bf53-8bdb5a876d19/spl-doc"},{"brandName":"JANUVIA","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995","availableUnit":["mg/1"],"availableStrength":["50"],"activeIngredient":["SITAGLIPTIN PHOSPHATE"],"strengths":"50mg/1","NDC":"50090-3472","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"A-S Medication Solutions","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=194c3718-5eb5-4cf5-85d0-2bb1ed8293b8","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/194c3718-5eb5-4cf5-85d0-2bb1ed8293b8/spl-doc"},{"brandName":"JANUVIA","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995","availableUnit":["mg/1"],"availableStrength":["25"],"activeIngredient":["SITAGLIPTIN PHOSPHATE"],"strengths":"25mg/1","NDC":"50090-3527","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"A-S Medication Solutions","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=1b03c82f-b52e-4092-b9dc-f2c9b0d6ab40","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/1b03c82f-b52e-4092-b9dc-f2c9b0d6ab40/spl-doc"},{"brandName":"JANUVIA","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995","availableUnit":["mg/1"],"availableStrength":["100"],"activeIngredient":["SITAGLIPTIN PHOSPHATE"],"strengths":"100mg/1","NDC":"50090-4084","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"A-S Medication Solutions","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=62c4f58b-2b28-4825-aeb6-213ab9b7a026","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/62c4f58b-2b28-4825-aeb6-213ab9b7a026/spl-doc"},{"brandName":"JANUVIA","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995","availableUnit":["mg/1"],"availableStrength":["50"],"activeIngredient":["SITAGLIPTIN PHOSPHATE"],"strengths":"50mg/1","NDC":"50090-4086","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"A-S Medication Solutions","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=eb81a45f-05b8-49de-99ce-5089bd360d9b","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/eb81a45f-05b8-49de-99ce-5089bd360d9b/spl-doc"},{"brandName":"JANUMET","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=202270","availableUnit":["mg/1; mg/1"],"availableStrength":["50; 1000"],"activeIngredient":["SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"],"strengths":"50mg/1 1000mg/1","NDC":"50090-4411","dosage_Form":"TABLET, FILM COATED, EXTENDED RELEASE","routes":"ORAL","labeler":"A-S Medication Solutions","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=6d1c5225-a457-438c-93fa-15697db02363","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/6d1c5225-a457-438c-93fa-15697db02363/spl-doc"},{"brandName":"JANUVIA","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995","availableUnit":["mg/1"],"availableStrength":["50"],"activeIngredient":["SITAGLIPTIN PHOSPHATE"],"strengths":"50mg/1","NDC":"55154-5040","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"Cardinal Health","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=39253ddd-0245-43b1-ad28-d5923983afb4","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/39253ddd-0245-43b1-ad28-d5923983afb4/spl-doc"},{"brandName":"JANUVIA","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995","availableUnit":["mg/1"],"availableStrength":["100"],"activeIngredient":["SITAGLIPTIN PHOSPHATE"],"strengths":"100mg/1","NDC":"55154-5042","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"Cardinal Health","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=9d558f96-24a5-4788-8933-38256c17384b","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/9d558f96-24a5-4788-8933-38256c17384b/spl-doc"},{"brandName":"JANUMET","orangeBook":"https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=022044","availableUnit":["mg/1; mg/1"],"availableStrength":["50; 1000"],"activeIngredient":["SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"],"strengths":"50mg/1 1000mg/1","NDC":"70518-2548","dosage_Form":"TABLET, FILM COATED","routes":"ORAL","labeler":"REMEDYREPACK INC.","urlPDF":"http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=dbb24611-d5c4-4dfb-9ac1-f1ded16920c6","urlHTML":"https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/dbb24611-d5c4-4dfb-9ac1-f1ded16920c6/spl-doc"}]}}
+{
+    "code": 200,
+    "data": {
+        "pharmacological_info": {
+            "may_treat": [
+                "Diabetes Mellitus, Type 2"
+            ],
+            "may_prevent": [],
+            "contraindication": [
+                "Diabetes Mellitus, Type 1",
+                "Drug Hypersensitivity",
+                "Diabetic Ketoacidosis"
+            ],
+            "Drug_Class": [
+                [
+                    "Dipeptidyl Peptidase 4 Inhibitor [EPC],Dipeptidyl Peptidase 4 Inhibitors [MoA],Biguanide [EPC],Biguanides [CS]",
+                    "Dipeptidyl Peptidase 4 Inhibitor [EPC],Dipeptidyl Peptidase 4 Inhibitors [MoA]",
+                    "Biguanide [EPC],Biguanides [CS],Dipeptidyl Peptidase 4 Inhibitor [EPC],Dipeptidyl Peptidase 4 Inhibitors [MoA]"
+                ]
+            ],
+            "physiologic_effects": [
+                "Decreased Glucagon Secretion",
+                "Increased Insulin Secretion"
+            ],
+            "mechanism_of_action": [
+                "Dipeptidyl Peptidase 4 Inhibitors"
+            ]
+        },
+        "product_containing_drug": [
+            {
+                "brandName": "JANUMET",
+                "labelerName": "Merck Sharp & Dohme Corp."
+            },
+            {
+                "brandName": "JANUVIA",
+                "labelerName": "Merck Sharp & Dohme Corp."
+            },
+            {
+                "brandName": "STEGLUJAN",
+                "labelerName": "Merck Sharp & Dohme Corp."
+            },
+            {
+                "brandName": "JANUVIA",
+                "labelerName": "A-S Medication Solutions"
+            },
+            {
+                "brandName": "JANUMET",
+                "labelerName": "A-S Medication Solutions"
+            },
+            {
+                "brandName": "JANUVIA",
+                "labelerName": "Cardinal Health"
+            },
+            {
+                "brandName": "JANUMET",
+                "labelerName": "REMEDYREPACK INC."
+            }
+        ],
+        "links": {
+            "mayo_clinic": "https://www.mayoclinic.org/drugs-supplements/sitagliptin-oral-route/description/drg-20069730",
+            "medscape_url": "https://reference.medscape.com/drug/januvia-sitagliptin-342730",
+            "rxlist_url": "https://www.rxlist.com/search/rxl/sitagliptin",
+            "drugbank_url": "https://www.drugs.com/ppa/sitagliptin.html"
+        },
+        "product_info": [
+            {
+                "brandName": "JANUMET",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=202270",
+                "availableUnit": [
+                    "mg/1; mg/1"
+                ],
+                "availableStrength": [
+                    "50; 500"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"
+                ],
+                "strengths": "50mg/1 500mg/1",
+                "NDC": "0006-0078",
+                "dosage_Form": "TABLET, FILM COATED, EXTENDED RELEASE",
+                "routes": "ORAL",
+                "labeler": "Merck Sharp & Dohme Corp.",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50/spl-doc"
+            },
+            {
+                "brandName": "JANUMET",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=202270",
+                "availableUnit": [
+                    "mg/1; mg/1"
+                ],
+                "availableStrength": [
+                    "50; 1000"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"
+                ],
+                "strengths": "50mg/1 1000mg/1",
+                "NDC": "0006-0080",
+                "dosage_Form": "TABLET, FILM COATED, EXTENDED RELEASE",
+                "routes": "ORAL",
+                "labeler": "Merck Sharp & Dohme Corp.",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50/spl-doc"
+            },
+            {
+                "brandName": "JANUMET",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=202270",
+                "availableUnit": [
+                    "mg/1; mg/1"
+                ],
+                "availableStrength": [
+                    "100; 1000"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"
+                ],
+                "strengths": "100mg/1 1000mg/1",
+                "NDC": "0006-0081",
+                "dosage_Form": "TABLET, FILM COATED, EXTENDED RELEASE",
+                "routes": "ORAL",
+                "labeler": "Merck Sharp & Dohme Corp.",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50/spl-doc"
+            },
+            {
+                "brandName": "JANUVIA",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995",
+                "availableUnit": [
+                    "mg/1"
+                ],
+                "availableStrength": [
+                    "50"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE"
+                ],
+                "strengths": "50mg/1",
+                "NDC": "0006-0112",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "Merck Sharp & Dohme Corp.",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=f85a48d0-0407-4c50-b0fa-7673a160bf01",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/f85a48d0-0407-4c50-b0fa-7673a160bf01/spl-doc"
+            },
+            {
+                "brandName": "JANUVIA",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995",
+                "availableUnit": [
+                    "mg/1"
+                ],
+                "availableStrength": [
+                    "25"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE"
+                ],
+                "strengths": "25mg/1",
+                "NDC": "0006-0221",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "Merck Sharp & Dohme Corp.",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=f85a48d0-0407-4c50-b0fa-7673a160bf01",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/f85a48d0-0407-4c50-b0fa-7673a160bf01/spl-doc"
+            },
+            {
+                "brandName": "JANUVIA",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995",
+                "availableUnit": [
+                    "mg/1"
+                ],
+                "availableStrength": [
+                    "100"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE"
+                ],
+                "strengths": "100mg/1",
+                "NDC": "0006-0277",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "Merck Sharp & Dohme Corp.",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=f85a48d0-0407-4c50-b0fa-7673a160bf01",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/f85a48d0-0407-4c50-b0fa-7673a160bf01/spl-doc"
+            },
+            {
+                "brandName": "JANUMET",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=022044",
+                "availableUnit": [
+                    "mg/1; mg/1"
+                ],
+                "availableStrength": [
+                    "50; 500"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"
+                ],
+                "strengths": "50mg/1 500mg/1",
+                "NDC": "0006-0575",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "Merck Sharp & Dohme Corp.",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=d19c7ed0-ad5c-426e-b2df-722508f97d67",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/d19c7ed0-ad5c-426e-b2df-722508f97d67/spl-doc"
+            },
+            {
+                "brandName": "JANUMET",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=022044",
+                "availableUnit": [
+                    "mg/1; mg/1"
+                ],
+                "availableStrength": [
+                    "50; 1000"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"
+                ],
+                "strengths": "50mg/1 1000mg/1",
+                "NDC": "0006-0577",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "Merck Sharp & Dohme Corp.",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=d19c7ed0-ad5c-426e-b2df-722508f97d67",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/d19c7ed0-ad5c-426e-b2df-722508f97d67/spl-doc"
+            },
+            {
+                "brandName": "STEGLUJAN",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=209805",
+                "availableUnit": [
+                    "mg/1; mg/1"
+                ],
+                "availableStrength": [
+                    "5; 100"
+                ],
+                "activeIngredient": [
+                    "ERTUGLIFLOZIN PIDOLATE; SITAGLIPTIN PHOSPHATE"
+                ],
+                "strengths": "5mg/1 100mg/1",
+                "NDC": "0006-5367",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "Merck Sharp & Dohme Corp.",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=c2c553d8-5a9d-4366-bf53-8bdb5a876d19",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/c2c553d8-5a9d-4366-bf53-8bdb5a876d19/spl-doc"
+            },
+            {
+                "brandName": "STEGLUJAN",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=209805",
+                "availableUnit": [
+                    "mg/1; mg/1"
+                ],
+                "availableStrength": [
+                    "15; 100"
+                ],
+                "activeIngredient": [
+                    "ERTUGLIFLOZIN PIDOLATE; SITAGLIPTIN PHOSPHATE"
+                ],
+                "strengths": "15mg/1 100mg/1",
+                "NDC": "0006-5368",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "Merck Sharp & Dohme Corp.",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=c2c553d8-5a9d-4366-bf53-8bdb5a876d19",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/c2c553d8-5a9d-4366-bf53-8bdb5a876d19/spl-doc"
+            },
+            {
+                "brandName": "JANUVIA",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995",
+                "availableUnit": [
+                    "mg/1"
+                ],
+                "availableStrength": [
+                    "50"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE"
+                ],
+                "strengths": "50mg/1",
+                "NDC": "50090-3472",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "A-S Medication Solutions",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=194c3718-5eb5-4cf5-85d0-2bb1ed8293b8",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/194c3718-5eb5-4cf5-85d0-2bb1ed8293b8/spl-doc"
+            },
+            {
+                "brandName": "JANUVIA",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995",
+                "availableUnit": [
+                    "mg/1"
+                ],
+                "availableStrength": [
+                    "25"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE"
+                ],
+                "strengths": "25mg/1",
+                "NDC": "50090-3527",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "A-S Medication Solutions",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=1b03c82f-b52e-4092-b9dc-f2c9b0d6ab40",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/1b03c82f-b52e-4092-b9dc-f2c9b0d6ab40/spl-doc"
+            },
+            {
+                "brandName": "JANUVIA",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995",
+                "availableUnit": [
+                    "mg/1"
+                ],
+                "availableStrength": [
+                    "100"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE"
+                ],
+                "strengths": "100mg/1",
+                "NDC": "50090-4084",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "A-S Medication Solutions",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=62c4f58b-2b28-4825-aeb6-213ab9b7a026",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/62c4f58b-2b28-4825-aeb6-213ab9b7a026/spl-doc"
+            },
+            {
+                "brandName": "JANUVIA",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995",
+                "availableUnit": [
+                    "mg/1"
+                ],
+                "availableStrength": [
+                    "50"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE"
+                ],
+                "strengths": "50mg/1",
+                "NDC": "50090-4086",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "A-S Medication Solutions",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=eb81a45f-05b8-49de-99ce-5089bd360d9b",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/eb81a45f-05b8-49de-99ce-5089bd360d9b/spl-doc"
+            },
+            {
+                "brandName": "JANUMET",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=202270",
+                "availableUnit": [
+                    "mg/1; mg/1"
+                ],
+                "availableStrength": [
+                    "50; 1000"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"
+                ],
+                "strengths": "50mg/1 1000mg/1",
+                "NDC": "50090-4411",
+                "dosage_Form": "TABLET, FILM COATED, EXTENDED RELEASE",
+                "routes": "ORAL",
+                "labeler": "A-S Medication Solutions",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=6d1c5225-a457-438c-93fa-15697db02363",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/6d1c5225-a457-438c-93fa-15697db02363/spl-doc"
+            },
+            {
+                "brandName": "JANUVIA",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995",
+                "availableUnit": [
+                    "mg/1"
+                ],
+                "availableStrength": [
+                    "50"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE"
+                ],
+                "strengths": "50mg/1",
+                "NDC": "55154-5040",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "Cardinal Health",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=39253ddd-0245-43b1-ad28-d5923983afb4",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/39253ddd-0245-43b1-ad28-d5923983afb4/spl-doc"
+            },
+            {
+                "brandName": "JANUVIA",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=021995",
+                "availableUnit": [
+                    "mg/1"
+                ],
+                "availableStrength": [
+                    "100"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE"
+                ],
+                "strengths": "100mg/1",
+                "NDC": "55154-5042",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "Cardinal Health",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=9d558f96-24a5-4788-8933-38256c17384b",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/9d558f96-24a5-4788-8933-38256c17384b/spl-doc"
+            },
+            {
+                "brandName": "JANUMET",
+                "orangeBook": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=022044",
+                "availableUnit": [
+                    "mg/1; mg/1"
+                ],
+                "availableStrength": [
+                    "50; 1000"
+                ],
+                "activeIngredient": [
+                    "SITAGLIPTIN PHOSPHATE; METFORMIN HYDROCHLORIDE"
+                ],
+                "strengths": "50mg/1 1000mg/1",
+                "NDC": "70518-2548",
+                "dosage_Form": "TABLET, FILM COATED",
+                "routes": "ORAL",
+                "labeler": "REMEDYREPACK INC.",
+                "urlPDF": "http://dailymed.nlm.nih.gov/dailymed/downloadpdffile.cfm?setId=dbb24611-d5c4-4dfb-9ac1-f1ded16920c6",
+                "urlHTML": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/dbb24611-d5c4-4dfb-9ac1-f1ded16920c6/spl-doc"
+            }
+        ],
+        "drug_interactions": [
+            {
+                "count": 75,
+                "interaction_type": "Minor",
+                "related_drugs": "agrimony, American ginseng, amitriptyline, amoxapine, anamu, bendroflumethiazide, budesonide, chlorothiazide, chlorpropamide, chlorthalidone, chromium, clomipramine, clonidine, cornsilk, cortisone, cyclopenthiazide, damiana, danazol, deflazacort, desipramine, devil's claw, dexamethasone, digoxin, doxepin, elderberry, eucalyptus, fludrocortisone, fluoxymesterone, fo-ti, forskolin, glimepiride, glipizide, glyburide, gotu kola, guanfacine, gymnema, horse chestnut seed, hydrochlorothiazide, hydrocortisone, imipramine, indapamide, isoniazid, juniper, lofepramine, lycopus, maitake, maprotiline, mesterolone, methyclothiazide, methylprednisolone, methyltestosterone, metolazone, nettle, nortriptyline, ofloxacin, oxandrolone, oxymetholone, pegvisomant, potassium acid phosphate, potassium chloride, potassium citrate, prednisolone, prednisone, protriptyline, sage, stevia, testosterone, testosterone buccal system, testosterone topical, tolazamide, tolbutamide, tongkat ali, trazodone, trimipramine, vanadium",
+            },
+            {
+                "count": 76,
+                "interaction_type": "Monitor Closely",
+                "related_drugs": "sulfamethoxypyridazine, tenofovir DF, teriflunomide, tipranavir, triamcinolone acetonide injectable suspension, tucatinib, vemurafenib, xipamide, ziprasidone, albiglutide, aripiprazole, asenapine, atazanavir, benazepril, berotralstat, bexarotene, bitter melon, bosutinib, captopril, cinnamon, ciprofloxacin, clozapine, crizotinib, darunavir, dulaglutide, elagolix, eliglustat, exenatide injectable solution, exenatide injectable suspension, fleroxacin, fosamprenavir, fostamatinib, gemifloxacin, glecaprevir/pibrentasvir, iloperidone, indinavir, insulin aspart, insulin aspart protamine/insulin aspart, insulin degludec, insulin degludec/insulin aspart, insulin detemir, insulin glargine, insulin glulisine, insulin inhaled, insulin isophane human/insulin regular human, insulin lispro, insulin lispro protamine/insulin lispro, insulin NPH, insulin regular human, istradefylline, ivacaftor, ketotifen, ophthalmic, levofloxacin, liraglutide, lomitapide, lonafarnib, lopinavir, lurasidone, marijuana, mecasermin, mifepristone, moxifloxacin, nelfinavir, ofloxacin, olanzapine, opuntia ficus indica, paliperidone, ponatinib, quetiapine, risperidone, ritonavir, saquinavir, sarecycline, shark cartilage, somapacitan, stiripentol",
+            },
+            {
+                "count": 4,
+                "interaction_type": "Serious",
+                "related_drugs": "erdafitinib, ethanol, lasmiditan, tepotinib",
+            }
+        ]
+    }
+}
